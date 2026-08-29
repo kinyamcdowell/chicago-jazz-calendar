@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chicago Jazz Events Calendar</title>
+<style>
+  :root{--bg:#0f0e0c;--card:#1a1815;--gold:#c9a227;--text:#e8e2d6;--muted:#9a9081;--link:#7cb7ff}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Georgia,'Times New Roman',serif;background:var(--bg);color:var(--text);line-height:1.6}
+  .wrap{max-width:720px;margin:0 auto;padding:48px 24px}
+  header{text-align:center;margin-bottom:36px}
+  .sax{font-size:42px;margin-bottom:8px}
+  h1{font-size:30px;margin:0 0 6px;color:var(--gold);font-weight:400;letter-spacing:.5px}
+  .sub{color:var(--muted);font-size:15px;font-family:system-ui,sans-serif}
+  .card{background:var(--card);border:1px solid #2a2622;border-radius:12px;padding:24px;margin-bottom:20px}
+  .card h2{margin:0 0 10px;font-size:19px;color:var(--gold);font-weight:400}
+  .card p{margin:0 0 12px;font-size:15px}
+  .feed{font-family:ui-monospace,Menlo,monospace;background:#0a0908;border:1px dashed #3a342c;border-radius:8px;padding:14px 16px;font-size:14px;word-break:break-all;color:#d8d2c4}
+  a{color:var(--link)}
+  ol{margin:8px 0 0;padding-left:20px;font-size:15px}
+  ol li{margin-bottom:8px}
+  .sources{font-size:13px;color:var(--muted)}
+  .sources a{color:var(--muted)}
+  code{background:#0a0908;padding:2px 6px;border-radius:4px;font-size:13px}
+  footer{margin-top:28px;text-align:center;color:var(--muted);font-size:13px;font-family:system-ui,sans-serif}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="sax">🎷</div>
+    <h1>Chicago Jazz Events</h1>
+    <div class="sub">Auto-updating calendar feed · refreshed weekly</div>
+  </header>
+
+  <div class="card">
+    <h2>Subscribe to the feed</h2>
+    <p>Copy the link below and add it to your calendar app as a subscription (not a one-time import). New events are picked up automatically each week.</p>
+    <div class="feed" id="feed">Loading feed URL…</div>
+  </div>
+
+  <div class="card">
+    <h2>How to add it</h2>
+    <ol>
+      <li><strong>Google Calendar:</strong> Settings → Add calendar → From URL → paste the link above. (Google refreshes ~every 12–24 hrs.)</li>
+      <li><strong>Apple Calendar:</strong> File → New Calendar Subscription → paste the link.</li>
+      <li><strong>Outlook:</strong> Add calendar → Subscribe from web → paste the link.</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>About</h2>
+    <p>Compiled from Chicago jazz venues and festivals. All times are in Chicago time (America/Chicago). Always confirm exact times and details with the venue.</p>
+    <p class="sources">
+      Sources: <a href="https://wdcb.org/" target="_blank">WDCB 90.9FM</a> ·
+      <a href="https://www.wintersjazzclub.com/" target="_blank">Winter's Jazz Club</a> ·
+      <a href="https://greenmilljazz.com/calendar/" target="_blank">Green Mill</a> ·
+      <a href="https://southsidejazzcoalition.org/" target="_blank">South Side Jazz Coalition</a>
+    </p>
+  </div>
+
+  <footer>Auto-refreshed every Monday · Chicago Jazz Events Calendar</footer>
+</div>
+<script>
+  // The .ics lives next to this index.html at the same path.
+  const feed = location.origin + location.pathname.replace(/index\.html?$/,'') + 'chicago_jazz_events.ics';
+  document.getElementById('feed').innerHTML = '<a href="'+feed+'">'+feed+'</a>';
+</script>
+</body>
+</html>
