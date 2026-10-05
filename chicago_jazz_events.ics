@@ -7,7 +7,7 @@ X-WR-CALNAME:Chicagoland Jazz Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 UID:chijazz-1@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261006T190000
 DTEND;TZID=America/Chicago:20261006T210000
 SUMMARY:WDCB Bluesday Tuesday — Dave Specter Band with Brother John Kattke
@@ -17,7 +17,7 @@ URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-2@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261009T183000
 DTEND;TZID=America/Chicago:20261009T203000
 SUMMARY:Jazz Institute of Chicago's JazzCity Series — Sabertooth Quartet
@@ -27,7 +27,7 @@ URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-3@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261017T150000
 DTEND;TZID=America/Chicago:20261017T170000
 SUMMARY:WDCB Jazz at The Plex — Dennis Carroll
@@ -37,7 +37,7 @@ URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-4@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261007T190000
 DTEND;TZID=America/Chicago:20261007T210000
 SUMMARY:Carmen Stokes Quartet
@@ -47,7 +47,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-5@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261008T190000
 DTEND;TZID=America/Chicago:20261008T210000
 SUMMARY:Hinda Hoffman Quartet
@@ -57,7 +57,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-6@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261009T190000
 DTEND;TZID=America/Chicago:20261009T210000
 SUMMARY:Dee Alexander featuring the Jeremy Kahn Quartet
@@ -67,7 +67,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-7@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261010T190000
 DTEND;TZID=America/Chicago:20261010T210000
 SUMMARY:Thaddeus Tukes Quartet feat. Jeremy Kahn & Angel Spiccia
@@ -77,7 +77,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-8@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261011T190000
 DTEND;TZID=America/Chicago:20261011T210000
 SUMMARY:Paul Marinaro Quintet
@@ -87,7 +87,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-9@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261014T190000
 DTEND;TZID=America/Chicago:20261014T210000
 SUMMARY:Michael Lerich Quartet
@@ -97,7 +97,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-10@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261015T190000
 DTEND;TZID=America/Chicago:20261015T210000
 SUMMARY:Jeremy Kahn Trio feat. Geof Bradfield
@@ -107,7 +107,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-11@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T210000
 SUMMARY:Chicago Soul Jazz Collective with LaShera Ellis
@@ -117,7 +117,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-12@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261017T190000
 DTEND;TZID=America/Chicago:20261017T210000
 SUMMARY:Tatum Langley feat. Jeremy Kahn Quartet
@@ -127,7 +127,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-13@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261018T190000
 DTEND;TZID=America/Chicago:20261018T210000
 SUMMARY:An Evening with Danny Sinoff and the Great American Songbook
@@ -137,7 +137,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-14@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261021T190000
 DTEND;TZID=America/Chicago:20261021T210000
 SUMMARY:Alex Austin Trio feat. Abigail Riccards
@@ -147,7 +147,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-15@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261022T190000
 DTEND;TZID=America/Chicago:20261022T210000
 SUMMARY:Eric Jacobson Quintet
@@ -157,7 +157,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-16@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261023T190000
 DTEND;TZID=America/Chicago:20261023T210000
 SUMMARY:Abigail Riccards Quartet
@@ -167,7 +167,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-17@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261024T190000
 DTEND;TZID=America/Chicago:20261024T210000
 SUMMARY:Ben Paterson Organ Trio feat. Bobby Broom
@@ -177,7 +177,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-18@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261025T190000
 DTEND;TZID=America/Chicago:20261025T210000
 SUMMARY:Bobbi Wilsyn & Company
@@ -187,7 +187,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-19@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261028T190000
 DTEND;TZID=America/Chicago:20261028T210000
 SUMMARY:Patricia Barber
@@ -197,7 +197,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-20@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261029T190000
 DTEND;TZID=America/Chicago:20261029T210000
 SUMMARY:Chris White Quartet
@@ -207,7 +207,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-21@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261030T190000
 DTEND;TZID=America/Chicago:20261030T210000
 SUMMARY:Marques Carroll Quintet
@@ -217,7 +217,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-22@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261031T190000
 DTEND;TZID=America/Chicago:20261031T210000
 SUMMARY:Bosman Twins Quintet
@@ -227,7 +227,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-23@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261101T190000
 DTEND;TZID=America/Chicago:20261101T210000
 SUMMARY:Mad-Good
@@ -237,7 +237,7 @@ URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-24@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261005T200000
 DTEND;TZID=America/Chicago:20261006T000000
 SUMMARY:Joel Patterson & Friends
@@ -247,7 +247,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-25@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261006T200000
 DTEND;TZID=America/Chicago:20261007T000000
 SUMMARY:Chicago Cellar Boys
@@ -257,7 +257,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-26@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261007T200000
 DTEND;TZID=America/Chicago:20261008T000000
 SUMMARY:Alfonso Ponticelli
@@ -267,7 +267,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-27@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261008T170000
 DTEND;TZID=America/Chicago:20261008T193000
 SUMMARY:Andy Brown
@@ -277,7 +277,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-28@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261008T200000
 DTEND;TZID=America/Chicago:20261009T000000
 SUMMARY:Alan Gresik's Swing Orchestra
@@ -287,7 +287,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-29@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261009T171500
 DTEND;TZID=America/Chicago:20261009T190000
 SUMMARY:Chris Foreman
@@ -297,7 +297,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-30@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261009T200000
 DTEND;TZID=America/Chicago:20261010T000000
 SUMMARY:Trio Nexus
@@ -307,7 +307,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-31@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261010T010000
 DTEND;TZID=America/Chicago:20261010T033000
 SUMMARY:Green Mill Jam Session with Marquis Hill
@@ -317,7 +317,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-32@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261010T150000
 DTEND;TZID=America/Chicago:20261010T170000
 SUMMARY:Paper Machete
@@ -327,7 +327,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-33@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261010T200000
 DTEND;TZID=America/Chicago:20261011T000000
 SUMMARY:Trio Nexus
@@ -337,7 +337,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-34@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261011T010000
 DTEND;TZID=America/Chicago:20261011T040000
 SUMMARY:Righteous Rooster Organ Trio
@@ -347,7 +347,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-35@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261011T200000
 DTEND;TZID=America/Chicago:20261012T000000
 SUMMARY:Soul Message
@@ -357,7 +357,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-36@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261012T200000
 DTEND;TZID=America/Chicago:20261013T000000
 SUMMARY:Joel Patterson & Friends
@@ -367,7 +367,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-37@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261013T200000
 DTEND;TZID=America/Chicago:20261014T000000
 SUMMARY:Chicago Cellar Boys
@@ -377,7 +377,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-38@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261014T200000
 DTEND;TZID=America/Chicago:20261015T000000
 SUMMARY:Alfonso Ponticelli
@@ -387,7 +387,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-39@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261015T170000
 DTEND;TZID=America/Chicago:20261015T193000
 SUMMARY:Andy Brown
@@ -397,7 +397,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-40@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261015T200000
 DTEND;TZID=America/Chicago:20261016T000000
 SUMMARY:Alan Gresik's Swing Orchestra
@@ -407,7 +407,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-41@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261016T171500
 DTEND;TZID=America/Chicago:20261016T190000
 SUMMARY:Chris Foreman
@@ -417,7 +417,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-42@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261016T200000
 DTEND;TZID=America/Chicago:20261017T000000
 SUMMARY:Matt Ulery Nonet
@@ -427,7 +427,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-43@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261017T010000
 DTEND;TZID=America/Chicago:20261017T033000
 SUMMARY:Green Mill Jam Session with Marquis Hill
@@ -437,7 +437,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-44@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261017T150000
 DTEND;TZID=America/Chicago:20261017T170000
 SUMMARY:Paper Machete
@@ -447,7 +447,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-45@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261017T200000
 DTEND;TZID=America/Chicago:20261018T000000
 SUMMARY:Matt Ulery Nonet
@@ -457,7 +457,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-46@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261018T010000
 DTEND;TZID=America/Chicago:20261018T040000
 SUMMARY:Righteous Rooster Organ Trio
@@ -467,7 +467,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-47@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261018T200000
 DTEND;TZID=America/Chicago:20261019T000000
 SUMMARY:Soul Message
@@ -477,7 +477,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-48@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261019T200000
 DTEND;TZID=America/Chicago:20261020T000000
 SUMMARY:Joel Patterson & Friends
@@ -487,7 +487,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-49@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261020T200000
 DTEND;TZID=America/Chicago:20261021T000000
 SUMMARY:Chicago Cellar Boys
@@ -497,7 +497,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-50@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261021T200000
 DTEND;TZID=America/Chicago:20261022T000000
 SUMMARY:Alfonso Ponticelli
@@ -507,7 +507,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-51@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261022T170000
 DTEND;TZID=America/Chicago:20261022T193000
 SUMMARY:Andy Brown
@@ -517,7 +517,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-52@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261022T200000
 DTEND;TZID=America/Chicago:20261023T000000
 SUMMARY:Alan Gresik's Swing Orchestra
@@ -527,7 +527,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-53@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261023T171500
 DTEND;TZID=America/Chicago:20261023T190000
 SUMMARY:Chris Foreman
@@ -537,7 +537,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-54@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261023T200000
 DTEND;TZID=America/Chicago:20261024T000000
 SUMMARY:Andy Brown Quartet
@@ -547,7 +547,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-55@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261024T010000
 DTEND;TZID=America/Chicago:20261024T033000
 SUMMARY:Green Mill Jam Session with Marquis Hill
@@ -557,7 +557,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-56@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261024T150000
 DTEND;TZID=America/Chicago:20261024T170000
 SUMMARY:Paper Machete
@@ -567,7 +567,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-57@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261024T200000
 DTEND;TZID=America/Chicago:20261025T000000
 SUMMARY:Andy Brown Quartet
@@ -577,7 +577,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-58@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261025T010000
 DTEND;TZID=America/Chicago:20261025T040000
 SUMMARY:Righteous Rooster Organ Trio
@@ -587,7 +587,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-59@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261025T160000
 DTEND;TZID=America/Chicago:20261025T180000
 SUMMARY:Chicago Jazz Composers Collective
@@ -597,7 +597,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-60@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261025T200000
 DTEND;TZID=America/Chicago:20261026T000000
 SUMMARY:Soul Message
@@ -607,7 +607,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-61@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261026T200000
 DTEND;TZID=America/Chicago:20261027T000000
 SUMMARY:Joel Patterson & Friends
@@ -617,7 +617,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-62@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261027T200000
 DTEND;TZID=America/Chicago:20261028T000000
 SUMMARY:Chicago Cellar Boys
@@ -627,7 +627,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-63@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261028T200000
 DTEND;TZID=America/Chicago:20261029T000000
 SUMMARY:Alfonso Ponticelli
@@ -637,7 +637,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-64@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261029T170000
 DTEND;TZID=America/Chicago:20261029T193000
 SUMMARY:Andy Brown
@@ -647,7 +647,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-65@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261029T200000
 DTEND;TZID=America/Chicago:20261030T000000
 SUMMARY:Alan Gresik's Swing Orchestra
@@ -657,7 +657,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-66@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261030T171500
 DTEND;TZID=America/Chicago:20261030T190000
 SUMMARY:Chris Foreman
@@ -667,7 +667,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-67@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261030T200000
 DTEND;TZID=America/Chicago:20261031T000000
 SUMMARY:Halloween Eve with The Model Citizens
@@ -677,7 +677,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-68@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261031T010000
 DTEND;TZID=America/Chicago:20261031T033000
 SUMMARY:Green Mill Jam Session with Marquis Hill
@@ -687,7 +687,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-69@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261031T150000
 DTEND;TZID=America/Chicago:20261031T170000
 SUMMARY:Paper Machete
@@ -697,7 +697,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-70@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261031T200000
 DTEND;TZID=America/Chicago:20261101T000000
 SUMMARY:Halloween Night with The Chicago Cellar Boys
@@ -707,7 +707,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-71@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261101T010000
 DTEND;TZID=America/Chicago:20261101T040000
 SUMMARY:Righteous Rooster Organ Trio
@@ -717,7 +717,7 @@ URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-72@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261005T190000
 DTEND;TZID=America/Chicago:20261005T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -727,7 +727,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-73@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261012T190000
 DTEND;TZID=America/Chicago:20261012T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -737,7 +737,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-74@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261019T190000
 DTEND;TZID=America/Chicago:20261019T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -747,7 +747,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-75@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261026T190000
 DTEND;TZID=America/Chicago:20261026T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -757,7 +757,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-76@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261102T190000
 DTEND;TZID=America/Chicago:20261102T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -767,7 +767,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-77@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261109T190000
 DTEND;TZID=America/Chicago:20261109T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -777,7 +777,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-78@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261008T180000
 DTEND;TZID=America/Chicago:20261008T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -787,7 +787,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-79@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261008T180000
 DTEND;TZID=America/Chicago:20261008T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -797,7 +797,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-80@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261015T180000
 DTEND;TZID=America/Chicago:20261015T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -807,7 +807,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-81@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261015T180000
 DTEND;TZID=America/Chicago:20261015T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -817,7 +817,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-82@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261022T180000
 DTEND;TZID=America/Chicago:20261022T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -827,7 +827,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-83@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261022T180000
 DTEND;TZID=America/Chicago:20261022T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -837,7 +837,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-84@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261029T180000
 DTEND;TZID=America/Chicago:20261029T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -847,7 +847,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-85@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261029T180000
 DTEND;TZID=America/Chicago:20261029T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -857,7 +857,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-86@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261105T180000
 DTEND;TZID=America/Chicago:20261105T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -867,7 +867,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-87@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261105T180000
 DTEND;TZID=America/Chicago:20261105T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -877,7 +877,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-88@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261112T180000
 DTEND;TZID=America/Chicago:20261112T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -887,7 +887,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-89@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261112T180000
 DTEND;TZID=America/Chicago:20261112T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -897,7 +897,7 @@ URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-90@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261007T170000
 DTEND;TZID=America/Chicago:20261007T183000
 SUMMARY:Golden Hour featuring Jade Maze & Brother John Kattke
@@ -907,17 +907,17 @@ URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-91@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261007T193000
 DTEND;TZID=America/Chicago:20261007T220000
 SUMMARY:JOHN HAVRILLA SEXTET and LIZZI TRUMBORE Live at FSC
 LOCATION:Fulton Street Collective\, 1820 W Fulton St\, Chicago
-DESCRIPTION:$15. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-92@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261008T193000
 DTEND;TZID=America/Chicago:20261008T213000
 SUMMARY:Harper Jazz Ensemble & Guest Artist Markus Howell
@@ -927,7 +927,7 @@ URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-93@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261009T193000
 DTEND;TZID=America/Chicago:20261009T213000
 SUMMARY:Jazz and Chamber Ensembles
@@ -937,7 +937,7 @@ URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-94@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261012T193000
 DTEND;TZID=America/Chicago:20261012T213000
 SUMMARY:Jazz Combos
@@ -947,7 +947,7 @@ URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-95@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261012T190000
 DTEND;TZID=America/Chicago:20261012T210000
 SUMMARY:The Brown Derby Jazz Series Presents Phil Seed
@@ -957,7 +957,27 @@ URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-96@perplexity
-DTSTAMP:20261005T131635Z
+DTSTAMP:20261005T132059Z
+DTSTART;TZID=America/Chicago:20261017T173000
+DTEND;TZID=America/Chicago:20261017T193000
+SUMMARY:Charlie Brown Jazz Combo Live
+LOCATION:Serna's Grill\, 2 Lagoon Dr\, Hawthorn Woods\, IL
+DESCRIPTION:$40 GA / $20 Youth. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-97@perplexity
+DTSTAMP:20261005T132059Z
+DTSTART;TZID=America/Chicago:20261017T150000
+DTEND;TZID=America/Chicago:20261017T170000
+SUMMARY:Jazz and Justice
+LOCATION:7621 S Dorchester Ave\, Chicago
+DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-98@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261015T190000
 DTEND;TZID=America/Chicago:20261015T210000
 SUMMARY:Live Music w/Justin A. Williams (Live Jazz Set)
@@ -966,8 +986,8 @@ DESCRIPTION:Free (donations encouraged). Source: Eventbrite Chicago jazz events.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-97@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-99@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261016T193000
 DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:Jazz Ensemble and Combo
@@ -976,8 +996,8 @@ DESCRIPTION:Free/donation. Source: Eventbrite Chicago jazz events. Source: Event
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-98@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-100@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261017T180000
 DTEND;TZID=America/Chicago:20261017T200000
 SUMMARY:The Barristers Big Band: An Evening with Count Basie & Ella Fitzgerald
@@ -986,8 +1006,8 @@ DESCRIPTION:From $12.51. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-99@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-101@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261019T193000
 DTEND;TZID=America/Chicago:20261019T213000
 SUMMARY:Vocal Jazz Ensemble and Combo
@@ -996,8 +1016,8 @@ DESCRIPTION:Free/donation. Source: Eventbrite Chicago jazz events. Source: Event
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-100@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-102@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261019T200000
 DTEND;TZID=America/Chicago:20261019T220000
 SUMMARY:Miles Davis Tribute
@@ -1006,8 +1026,8 @@ DESCRIPTION:From $28.52. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-101@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-103@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261021T193000
 DTEND;TZID=America/Chicago:20261021T213000
 SUMMARY:Kate McGarry / Keith Ganz / Gary Versace Trio
@@ -1016,18 +1036,18 @@ DESCRIPTION:$15 suggested donation. Source: Eventbrite Chicago jazz events. Sour
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-102@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-104@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261022T193000
 DTEND;TZID=America/Chicago:20261022T213000
 SUMMARY:Christopher Lucas Wilson Trio — Album Release
 LOCATION:Fulton Street Collective\, 1820 W Fulton St\, Chicago
-DESCRIPTION:$15 suggested donation. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-103@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-105@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261024T190000
 DTEND;TZID=America/Chicago:20261024T210000
 SUMMARY:Jazz Night with The RJ Experience
@@ -1036,8 +1056,8 @@ DESCRIPTION:$23.18. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-104@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-106@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261026T190000
 DTEND;TZID=America/Chicago:20261026T210000
 SUMMARY:CCPA Jazz Combos (Roosevelt University)
@@ -1046,8 +1066,8 @@ DESCRIPTION:$5-$50. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-105@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-107@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261030T200000
 DTEND;TZID=America/Chicago:20261030T220000
 SUMMARY:Phil Angotti and Tony Richards
@@ -1056,8 +1076,8 @@ DESCRIPTION:From $17.85. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-106@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-108@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261105T193000
 DTEND;TZID=America/Chicago:20261105T213000
 SUMMARY:La Mar de Bien — A Flamenco Jazz Collective
@@ -1066,8 +1086,28 @@ DESCRIPTION:From $31.37. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-107@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-109@perplexity
+DTSTAMP:20261005T132059Z
+DTSTART;TZID=America/Chicago:20261103T193000
+DTEND;TZID=America/Chicago:20261103T213000
+SUMMARY:A Night of Lester\, Nat & Buddy Live at FSC
+LOCATION:Fulton Street Collective\, 1820 W Fulton St\, Chicago
+DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-110@perplexity
+DTSTAMP:20261005T132059Z
+DTSTART;TZID=America/Chicago:20261112T193000
+DTEND;TZID=America/Chicago:20261112T213000
+SUMMARY:Diego Rodriguez Big Band Live at FSC
+LOCATION:Fulton Street Collective\, 1820 W Fulton St\, Chicago
+DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-111@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20261213T143000
 DTEND;TZID=America/Chicago:20261213T163000
 SUMMARY:Jo Ann Daugherty Jazz Trio | Printmaker Deborah Maris Lader
@@ -1076,8 +1116,8 @@ DESCRIPTION:From $33.85. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-108@perplexity
-DTSTAMP:20261005T131635Z
+UID:chijazz-112@perplexity
+DTSTAMP:20261005T132059Z
 DTSTART;TZID=America/Chicago:20270117T143000
 DTEND;TZID=America/Chicago:20270117T163000
 SUMMARY:Apasionado Duo | Artist Anne Leuck (tango\, jazz & global sounds)
