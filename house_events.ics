@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago House Music Events//EN
+X-WR-CALNAME:Chicago House Music Events
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261101T140000
+DTEND;TZID=America/Chicago:20261101T180000
+SUMMARY:Praise House: Chicago Christian House Party
+LOCATION:3700 W Huron St\, Chicago
+DESCRIPTION:Praise House Chicago Christian House Party. Sun Nov 1\, 2pm. From $25.50.  Tickets: https://www.eventbrite.com/e/praise-house-chicago-christian-house-party-tickets-2000536099326
+URL:https://www.eventbrite.com/e/praise-house-chicago-christian-house-party-tickets-2000536099326
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261106T180000
+DTEND;TZID=America/Chicago:20261106T220000
+SUMMARY:Foot Notes. Curated By Grammy Nominated Terry Hunter. House Music.
+LOCATION:Pitch & Pour Supper Club\, Chicago
+DESCRIPTION:Foot Notes curated by Terry Hunter. Friday\, 6pm. From $12.51.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261107T180000
+DTEND;TZID=America/Chicago:20261107T220000
+SUMMARY:CODE RED (HOUSE MUSIC LIVES)
+LOCATION:ETA Creative Arts Foundation\, Chicago
+DESCRIPTION:Code Red House Music Lives. Sat Nov 7\, 6pm. From $23.18.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261108T170000
+DTEND;TZID=America/Chicago:20261108T200000
+SUMMARY:Second Sunday Salon • BROOKLYN BRITCHES • i Ri Se • PUGS ATOMZ
+LOCATION:Colvin House\, Chicago
+DESCRIPTION:Second Sunday Salon. Sun Nov 8\, 5pm.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261112T183000
+DTEND;TZID=America/Chicago:20261112T210000
+SUMMARY:Colvin Concerts: whitewolfsonicprincess & Angry Ankles
+LOCATION:Colvin House\, Chicago
+DESCRIPTION:Colvin Concerts. Thu Nov 12\, 6:30pm. From $23.18.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261113T210000
+DTEND;TZID=America/Chicago:20261114T010000
+SUMMARY:House Party [Chicago]
+LOCATION:Subterranean\, Chicago
+DESCRIPTION:House Party Chicago. Fri Nov 13\, 9pm. From $20.98.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261113T220000
+DTEND;TZID=America/Chicago:20261114T020000
+SUMMARY:Janky's House
+LOCATION:Replay Lakeview\, Chicago
+DESCRIPTION:Janky's House. Fri Nov 13\, 10pm. Free.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261114T120000
+DTEND;TZID=America/Chicago:20261114T170000
+SUMMARY:Barbershop Jukebox
+LOCATION:Fade District Lounge\, Chicago
+DESCRIPTION:Barbershop Jukebox. Sat Nov 14\, 12pm. From $55.20.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261114T160000
+DTEND;TZID=America/Chicago:20261114T210000
+SUMMARY:A House Music is Love Day Party Stacked w House Music Titans
+LOCATION:Le Nocturne Chicago\, 4810 N Broadway\, Chicago
+DESCRIPTION:House Music is Love Day Party. Sat Nov 14\, 4pm. From $12.51.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261125T190000
+DTEND;TZID=America/Chicago:20261126T000000
+SUMMARY:Thanksgiving Eve with a Massive House Music DJ Lineup
+LOCATION:Le Nocturne Chicago\, 4810 N Broadway\, Chicago
+DESCRIPTION:Thanksgiving Eve house music party. Wed Nov 25\, 7pm. From $12.51.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261125T210000
+DTEND;TZID=America/Chicago:20261126T010000
+SUMMARY:Neon Oasis - Reggaeton\, Latin House\, Latin Hits and more...
+LOCATION:Utopian Tailgate\, Chicago
+DESCRIPTION:Neon Oasis Latin house night. Wed Nov 25\, 9pm. From $7.92.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261127T200000
+DTEND;TZID=America/Chicago:20261128T010000
+SUMMARY:Global Frequency
+LOCATION:Theme House Karaoke Bar\, Chicago
+DESCRIPTION:Global Frequency house music night. Fri Nov 27\, 8pm. From $19.99.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261128T160000
+DTEND;TZID=America/Chicago:20261128T210000
+SUMMARY:A Chosen Few DJs House Music Day Party
+LOCATION:Le Nocturne Chicago\, 4810 N Broadway\, Chicago
+DESCRIPTION:Chosen Few DJs House Music Day Party. Sat Nov 28\, 4pm. From $12.51.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261128T183000
+DTEND;TZID=America/Chicago:20261128T210000
+SUMMARY:Soulful Holiday Lights Trolley Celebrating Motown\, R&B & House
+LOCATION:230 W North Ave\, Chicago
+DESCRIPTION:Soulful Holiday Lights Trolley. Sat Nov 28\, 6:30pm. From $78.50. Sold Out.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261129T160000
+DTEND;TZID=America/Chicago:20261129T200000
+SUMMARY:Speakeasy House Radio: DJ Holographic\, wOLFY!\, MARRIO
+LOCATION:Le Nocturne Chicago\, 4810 N Broadway\, Chicago
+DESCRIPTION:Speakeasy House Radio. Sun Nov 29\, 4pm. From $10.00.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20261219T220000
+DTEND;TZID=America/Chicago:20261220T020000
+SUMMARY:IN SYNC | EDM Night at Theme House
+LOCATION:Theme House\, Chicago
+DESCRIPTION:IN SYNC EDM Night. Sat Dec 19\, 10pm. From $12.51.
+END:VEVENT
+END:VCALENDAR
