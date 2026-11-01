@@ -3,18 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Chicagoland Jazz Events</title>
+<title>Chicago Music Events Calendars</title>
 <style>
-  :root{--bg:#0f0e0c;--card:#1a1815;--gold:#c9a227;--text:#e8e2d6;--muted:#9a9081;--link:#7cb7ff}
+  :root{--bg:#0f0e0c;--card:#1a1815;--gold:#c9a227;--text:#e8e2d6;--muted:#9a9081;--link:#7cb7ff;--purple:#b57edc;--blue:#7cb7ff;--orange:#ff9f43}
   *{box-sizing:border-box}
   body{margin:0;font-family:Georgia,'Times New Roman',serif;background:var(--bg);color:var(--text);line-height:1.6}
   .wrap{max-width:720px;margin:0 auto;padding:48px 24px}
   header{text-align:center;margin-bottom:36px}
   .sax{font-size:42px;margin-bottom:8px}
-  h1{font-size:30px;margin:0 0 6px;color:var(--gold);font-weight:400;letter-spacing:.5px}
+  h1{font-size:28px;margin:0 0 6px;color:var(--gold);font-weight:400;letter-spacing:.5px}
   .sub{color:var(--muted);font-size:15px;font-family:system-ui,sans-serif}
   .card{background:var(--card);border:1px solid #2a2622;border-radius:12px;padding:24px;margin-bottom:20px}
-  .card h2{margin:0 0 10px;font-size:19px;color:var(--gold);font-weight:400}
+  .card h2{margin:0 0 10px;font-size:19px;font-weight:400}
+  .card.jazz h2{color:var(--gold)}
+  .card.hiphop h2{color:var(--purple)}
+  .card.house h2{color:var(--orange)}
   .card p{margin:0 0 12px;font-size:15px}
   .feed{font-family:ui-monospace,Menlo,monospace;background:#0a0908;border:1px dashed #3a342c;border-radius:8px;padding:14px 16px;font-size:14px;word-break:break-all;color:#d8d2c4}
   a{color:var(--link)}
@@ -29,43 +32,63 @@
 <body>
 <div class="wrap">
   <header>
-    <div class="sax">🎷</div>
-    <h1>Chicagoland Jazz Events</h1>
-    <div class="sub">Auto-updating calendar feed · refreshed weekly · 75-mile Chicagoland radius</div>
+    <div class="sax">🎵</div>
+    <h1>Chicago Music Events Calendars</h1>
+    <div class="sub">Auto-updating calendar feeds · refreshed weekly · Jazz · Hip Hop · House Music</div>
   </header>
 
   <div class="card">
-    <h2>Subscribe to the feed</h2>
-    <p>Copy the link below and add it to your calendar app as a subscription (not a one-time import). New events are picked up automatically each week.</p>
-    <div class="feed" id="feed">Loading feed URL…</div>
-  </div>
-
-  <div class="card">
-    <h2>How to add it</h2>
+    <h2>How to subscribe</h2>
+    <p>Copy the link for the calendar you want and add it to your calendar app as a subscription (not a one-time import). New events are picked up automatically each week.</p>
     <ol>
-      <li><strong>Google Calendar:</strong> Settings → Add calendar → From URL → paste the link above. (Google refreshes ~every 12–24 hrs.)</li>
+      <li><strong>Google Calendar:</strong> Settings → Add calendar → From URL → paste the link. (Google refreshes ~every 12–24 hrs.)</li>
       <li><strong>Apple Calendar:</strong> File → New Calendar Subscription → paste the link.</li>
       <li><strong>Outlook:</strong> Add calendar → Subscribe from web → paste the link.</li>
     </ol>
   </div>
 
+  <div class="card jazz">
+    <h2>🎷 Chicagoland Jazz Events</h2>
+    <p>Jazz events from Chicago venues and festivals, covering a 75-mile Chicagoland radius.</p>
+    <div class="feed" id="feed-jazz">Loading feed URL…</div>
+  </div>
+
+  <div class="card hiphop">
+    <h2>🎤 Chicago Hip Hop Events</h2>
+    <p>Hip hop and R&B events in Chicago.</p>
+    <div class="feed" id="feed-hiphop">Loading feed URL…</div>
+  </div>
+
+  <div class="card house">
+    <h2>🏠 Chicago House Music Events</h2>
+    <p>House music events in Chicago, from the birthplace of house.</p>
+    <div class="feed" id="feed-house">Loading feed URL…</div>
+  </div>
+
   <div class="card">
     <h2>About</h2>
-    <p>Compiled from Chicago jazz venues and festivals. All times are in Chicago time (America/Chicago). Always confirm exact times and details with the venue.</p>
+    <p>All times are in Chicago time (America/Chicago). Always confirm exact times and details with the venue.</p>
     <p class="sources">
-      Sources: <a href="https://wdcb.org/" target="_blank">WDCB 90.9FM</a> ·
+      Jazz sources: <a href="https://wdcb.org/" target="_blank">WDCB 90.9FM</a> ·
       <a href="https://www.wintersjazzclub.com/" target="_blank">Winter's Jazz Club</a> ·
       <a href="https://greenmilljazz.com/calendar/" target="_blank">Green Mill</a> ·
       <a href="https://southsidejazzcoalition.org/" target="_blank">South Side Jazz Coalition</a>
     </p>
+    <p class="sources">
+      Hip Hop & House sources: <a href="https://www.eventbrite.com/d/il--chicago/hip-hop-events/" target="_blank">Eventbrite</a> ·
+      <a href="https://www.eventnoire.com/" target="_blank">EventNoire</a> ·
+      <a href="https://www.ticketmaster.com/chicago-il/events" target="_blank">Ticketmaster</a> ·
+      Public Facebook events
+    </p>
   </div>
 
-  <footer>Auto-refreshed every Monday · Chicago Jazz Events Calendar</footer>
+  <footer>Auto-refreshed every Monday · Chicago Music Events Calendars</footer>
 </div>
 <script>
-  // The .ics lives next to this index.html at the same path.
-  const feed = location.origin + location.pathname.replace(/index\.html?$/,'') + 'chicago_jazz_events.ics';
-  document.getElementById('feed').innerHTML = '<a href="'+feed+'">'+feed+'</a>';
+  const base = location.origin + location.pathname.replace(/index\.html?$/,'');
+  document.getElementById('feed-jazz').innerHTML = '<a href="'+base+'chicago_jazz_events.ics">'+base+'chicago_jazz_events.ics</a>';
+  document.getElementById('feed-hiphop').innerHTML = '<a href="'+base+'hiphop_events.ics">'+base+'hiphop_events.ics</a>';
+  document.getElementById('feed-house').innerHTML = '<a href="'+base+'house_events.ics">'+base+'house_events.ics</a>';
 </script>
 </body>
 </html>
