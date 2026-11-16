@@ -7,107 +7,77 @@ X-WR-CALNAME:Chicagoland Jazz Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 UID:chijazz-1@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261110T200000
-DTEND;TZID=America/Chicago:20261110T230000
-SUMMARY:Alejandro Urzagaste Quartet feat. Bill Carrothers — 'Universal Translation' Album Release
-LOCATION:Jazz Showcase\, 806 S Plymouth Ct\, Chicago
-DESCRIPTION:Tue Nov 10\, 8pm & 10pm sets. Free. Album release for 'Universal Translation'. Source: WDCB.
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261117T193000
+DTEND;TZID=America/Chicago:20261117T213000
+SUMMARY:Hyde Park Jazz Society 'Third Tuesdays': Thaddeus Tukes
+LOCATION:Logan Center for the Arts\, 915 E 60th St\, Chicago
+DESCRIPTION:Tue Nov 17\, 7:30pm. Hyde Park Jazz Society Third Tuesdays series. Source: WDCB.
 URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-2@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T180000
-DTEND;TZID=America/Chicago:20261112T210000
-SUMMARY:WDCB Jazz Night: Matt Shevitz Trio
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261119T180000
+DTEND;TZID=America/Chicago:20261119T210000
+SUMMARY:WDCB Jazz Night: Paul Abella Trio
 LOCATION:Labriola Ristorante\, 3011 Butterfield Rd\, Oak Brook\, IL
-DESCRIPTION:Thu Nov 12\, 6-9pm. Source: WDCB.
+DESCRIPTION:Thu Nov 19\, 6-9pm. Source: WDCB.
 URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-3@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T180000
-DTEND;TZID=America/Chicago:20261112T210000
-SUMMARY:WDCB Jazz Thursdays: Tony do Rosario Duo
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261119T180000
+DTEND;TZID=America/Chicago:20261119T210000
+SUMMARY:WDCB Jazz Thursdays: Michael Stryker & Ryan Shultz
 LOCATION:Adelle's Modern Kitchen + Bar\, 535 W Liberty Dr\, Wheaton\, IL
-DESCRIPTION:Thu Nov 12\, 6-9pm. Source: WDCB.
+DESCRIPTION:Thu Nov 19\, 6-9pm. Source: WDCB.
 URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-4@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261113T120000
-DTEND;TZID=America/Chicago:20261113T133000
-SUMMARY:College of DuPage Jazz Faculty Ensemble — Faculty Spotlight (WDCB live broadcast)
-LOCATION:MAC — McAninch Arts Center\, College of DuPage\, Glen Ellyn\, IL
-DESCRIPTION:Fri Nov 13\, noon. Source: WDCB.
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261120T190000
+DTEND;TZID=America/Chicago:20261120T210000
+SUMMARY:J is for Jazz: An Interactive Musical Theater Event Celebrating 100 Years of Oscar Brown\, Jr.
+LOCATION:Governors State University Center for Performing Arts\, University Park\, IL
+DESCRIPTION:Fri Nov 20\, 7pm. Source: WDCB.
 URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-5@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261121T150000
-DTEND;TZID=America/Chicago:20261121T170000
-SUMMARY:WDCB Jazz at The Plex: Elisha Organ Trio
-LOCATION:Comedy Plex\, Oak Park\, IL
-DESCRIPTION:Nov 21. Source: WDCB.
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261120T193000
+DTEND;TZID=America/Chicago:20261120T213000
+SUMMARY:Alexander/McLean Project — Dee Alexander and John McLean
+LOCATION:Studio5\, 2000 Green Bay Rd\, Evanston\, IL
+DESCRIPTION:Fri Nov 20\, 7:30pm. Source: WDCB.
 URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-6@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261111T190000
-DTEND;TZID=America/Chicago:20261111T210000
-SUMMARY:Abigail Riccards & Friends
-LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
-DESCRIPTION:A Night of Soul / Jazz / Blues Favorites. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
-URL:https://www.wintersjazzclub.com/
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261121T150000
+DTEND;TZID=America/Chicago:20261121T173000
+SUMMARY:WDCB Jazz at The Plex: Elisha Organ Trio plus trumpeter Gabriel Wade
+LOCATION:Comedy Plex\, Oak Park\, IL
+DESCRIPTION:Sat Nov 21\, 3-5:30pm. Source: WDCB.
+URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-7@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T190000
-DTEND;TZID=America/Chicago:20261112T210000
-SUMMARY:Libby York Quartet feat. Paul Marinaro
-LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
-DESCRIPTION:Hit the Road To Dreamland: The Artistry of Johnny Mercer & Co.. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
-URL:https://www.wintersjazzclub.com/
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261121T193000
+DTEND;TZID=America/Chicago:20261121T213000
+SUMMARY:Chris White Trio performs Vince Guaraldi's A Charlie Brown Christmas
+LOCATION:Al Larson Cultural Center\, Schaumburg\, IL
+DESCRIPTION:Sat Nov 21\, 7:30pm. Source: WDCB.
+URL:https://wdcb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-8@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261113T190000
-DTEND;TZID=America/Chicago:20261113T210000
-SUMMARY:Leroy Jones Quintet
-LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
-DESCRIPTION:An Evening of New Orleans Jazz — One Night Only!. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
-URL:https://www.wintersjazzclub.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-9@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261114T190000
-DTEND;TZID=America/Chicago:20261114T210000
-SUMMARY:Thaddeus Tukes Quintet
-LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
-DESCRIPTION:feat. Jeremy Kahn\, Henry Johnson\, Marlene Rosenberg\, Charles Heath\, Angel Spiccia\, Paul Marinaro. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
-URL:https://www.wintersjazzclub.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-10@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261115T190000
-DTEND;TZID=America/Chicago:20261115T210000
-SUMMARY:Chicago Jazz Orchestra with vocalist Sarah Marie Young
-LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
-DESCRIPTION:Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
-URL:https://www.wintersjazzclub.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-11@perplexity
-DTSTAMP:20261109T140449Z
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261118T190000
 DTEND;TZID=America/Chicago:20261118T210000
 SUMMARY:Patricia Barber
@@ -116,8 +86,8 @@ DESCRIPTION:Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-12@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-9@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T210000
 SUMMARY:Jeremy Kahn Trio wsg Mark Feldman
@@ -126,8 +96,8 @@ DESCRIPTION:No Room for Squares: A Tribute to the Voluminous Catalogue of Blue N
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-13@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-10@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T210000
 SUMMARY:Ben Paterson Organ Trio feat. Bobby Broom
@@ -136,8 +106,8 @@ DESCRIPTION:Jimmy Smith Meets Stevie Wonder\, The Beatles\, and More!. Tickets: 
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-14@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-11@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261121T190000
 DTEND;TZID=America/Chicago:20261121T210000
 SUMMARY:Paul Marinaro Quintet
@@ -146,8 +116,8 @@ DESCRIPTION:A Beautiful Friendship: Celebrating a Decade of Live Performances at
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-15@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-12@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261122T190000
 DTEND;TZID=America/Chicago:20261122T210000
 SUMMARY:Chad McCullough Quintet
@@ -156,8 +126,8 @@ DESCRIPTION:Centennial Legends: Celebrating the 100th birthdays of Miles Davis a
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-16@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-13@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261125T190000
 DTEND;TZID=America/Chicago:20261125T210000
 SUMMARY:Chris White Trio
@@ -166,8 +136,8 @@ DESCRIPTION:A Charlie Brown Thanksgiving!. Tickets: wintersjazzclub.com. Source:
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-17@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-14@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261127T190000
 DTEND;TZID=America/Chicago:20261127T210000
 SUMMARY:Chicago Soul Jazz Collective with LaShera Ellis
@@ -176,8 +146,8 @@ DESCRIPTION:Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-18@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-15@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261128T190000
 DTEND;TZID=America/Chicago:20261128T210000
 SUMMARY:Bosman Twins Quintet
@@ -186,8 +156,8 @@ DESCRIPTION:Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-19@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-16@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261129T190000
 DTEND;TZID=America/Chicago:20261129T210000
 SUMMARY:Spider Saloff Quintet
@@ -196,8 +166,8 @@ DESCRIPTION:Steppin' Out: Fred Astaire and His Music. Tickets: wintersjazzclub.c
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-20@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-17@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261202T190000
 DTEND;TZID=America/Chicago:20261202T210000
 SUMMARY:Patricia Barber
@@ -206,8 +176,8 @@ DESCRIPTION:Songs of the Season and Repertoire Favorites. Tickets: wintersjazzcl
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-21@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-18@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261203T190000
 DTEND;TZID=America/Chicago:20261203T210000
 SUMMARY:Julia Danielle Quartet
@@ -216,8 +186,8 @@ DESCRIPTION:An Evening Exploring the Ella Fitzgerald and Joe Pass Collaborations
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-22@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-19@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261204T190000
 DTEND;TZID=America/Chicago:20261204T210000
 SUMMARY:Paul Marinaro Quintet
@@ -226,8 +196,8 @@ DESCRIPTION:Sinatra 111: A Birthday Celebration!. Tickets: wintersjazzclub.com. 
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-23@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-20@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261205T190000
 DTEND;TZID=America/Chicago:20261205T210000
 SUMMARY:Bria Skonberg
@@ -236,8 +206,8 @@ DESCRIPTION:Jingle Bell Swing. Tickets: wintersjazzclub.com. Source: Winter's Ja
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-24@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-21@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261206T190000
 DTEND;TZID=America/Chicago:20261206T210000
 SUMMARY:Mad-Good
@@ -246,8 +216,8 @@ DESCRIPTION:Songbird Series - Celebrating Signature Voices of Jazz: Shirley Horn
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-25@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-22@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261208T190000
 DTEND;TZID=America/Chicago:20261208T210000
 SUMMARY:Chris White Trio + 3-person Choir
@@ -256,138 +226,68 @@ DESCRIPTION:A Charlie Brown Christmas! (SOLD OUT). Tickets: wintersjazzclub.com.
 URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:chijazz-23@perplexity
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261209T190000
+DTEND;TZID=America/Chicago:20261209T210000
+SUMMARY:Carmen Stokes Quartet
+LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
+DESCRIPTION:Under the Influence: Exploring the Musical Influences of TBD. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
+URL:https://www.wintersjazzclub.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-24@perplexity
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261210T190000
+DTEND;TZID=America/Chicago:20261210T210000
+SUMMARY:Zachary Finnegan's Timeless Quintet
+LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
+DESCRIPTION:Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
+URL:https://www.wintersjazzclub.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-25@perplexity
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261211T190000
+DTEND;TZID=America/Chicago:20261211T210000
+SUMMARY:Better Together
+LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
+DESCRIPTION:Have Yourself a Soulful Little Christmas!. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
+URL:https://www.wintersjazzclub.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:chijazz-26@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261109T200000
-DTEND;TZID=America/Chicago:20261110T000000
-SUMMARY:Joel Patterson & Friends
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:$10 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261212T190000
+DTEND;TZID=America/Chicago:20261212T210000
+SUMMARY:Joe Alterman Trio
+LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
+DESCRIPTION:One Night Only!. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
+URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-27@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261110T200000
-DTEND;TZID=America/Chicago:20261111T000000
-SUMMARY:Chicago Cellar Boys
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:$10 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261213T190000
+DTEND;TZID=America/Chicago:20261213T210000
+SUMMARY:Thaddeus Tukes Quartet
+LOCATION:Winter's Jazz Club\, 465 N McClurg Ct\, Chicago
+DESCRIPTION:Christmastime is Here!. Tickets: wintersjazzclub.com. Source: Winter's Jazz Club.
+URL:https://www.wintersjazzclub.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-28@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261111T200000
-DTEND;TZID=America/Chicago:20261112T000000
-SUMMARY:Alfonso Ponticelli
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261116T200000
+DTEND;TZID=America/Chicago:20261117T000000
+SUMMARY:Natalie Scharf and Friends
 LOCATION:Green Mill\, 4802 N Broadway\, Chicago
 DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:chijazz-29@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T170000
-DTEND;TZID=America/Chicago:20261112T193000
-SUMMARY:Andy Brown
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:5pm-7:30pm set. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-30@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T200000
-DTEND;TZID=America/Chicago:20261113T000000
-SUMMARY:Alan Gresik's Swing Orchestra
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:$10 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-31@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261113T171500
-DTEND;TZID=America/Chicago:20261113T190000
-SUMMARY:Chris Foreman
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:5:15pm-7pm set. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-32@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261113T200000
-DTEND;TZID=America/Chicago:20261114T000000
-SUMMARY:Neal Alger Quartet
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:Green Mill Cocktail Lounge. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-33@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261114T010000
-DTEND;TZID=America/Chicago:20261114T033000
-SUMMARY:Green Mill Jam Session with Marquis Hill
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:Late set\, 1am-3:30am. $5 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-34@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261114T150000
-DTEND;TZID=America/Chicago:20261114T170000
-SUMMARY:Paper Machete
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:FREE. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-35@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261115T010000
-DTEND;TZID=America/Chicago:20261115T040000
-SUMMARY:Righteous Rooster Organ Trio
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:Late set\, 1am-4am. $5 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-36@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261115T150000
-DTEND;TZID=America/Chicago:20261115T170000
-SUMMARY:Uptown Poetry Slam
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:$10 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-37@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261115T200000
-DTEND;TZID=America/Chicago:20261116T000000
-SUMMARY:Soul Message
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:$10 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-38@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261116T200000
-DTEND;TZID=America/Chicago:20261117T000000
-SUMMARY:Joel Patterson & Friends
-LOCATION:Green Mill\, 4802 N Broadway\, Chicago
-DESCRIPTION:$10 cover. Source: Green Mill.
-URL:https://greenmilljazz.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-39@perplexity
-DTSTAMP:20261109T140449Z
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261117T200000
 DTEND;TZID=America/Chicago:20261118T000000
 SUMMARY:Chicago Cellar Boys
@@ -396,8 +296,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-40@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-30@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261118T200000
 DTEND;TZID=America/Chicago:20261119T000000
 SUMMARY:Alfonso Ponticelli
@@ -406,8 +306,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-41@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-31@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261119T170000
 DTEND;TZID=America/Chicago:20261119T193000
 SUMMARY:Andy Brown
@@ -416,8 +316,8 @@ DESCRIPTION:5pm-7:30pm set. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-42@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-32@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261119T200000
 DTEND;TZID=America/Chicago:20261120T000000
 SUMMARY:Alan Gresik's Swing Orchestra
@@ -426,8 +326,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-43@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-33@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261120T171500
 DTEND;TZID=America/Chicago:20261120T190000
 SUMMARY:Chris Foreman
@@ -436,8 +336,8 @@ DESCRIPTION:5:15pm-7pm set. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-44@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-34@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261120T200000
 DTEND;TZID=America/Chicago:20261121T000000
 SUMMARY:Chris Greene Quartet
@@ -446,8 +346,8 @@ DESCRIPTION:Green Mill Cocktail Lounge. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-45@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-35@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261121T010000
 DTEND;TZID=America/Chicago:20261121T033000
 SUMMARY:Green Mill Jam Session with Marquis Hill
@@ -456,8 +356,8 @@ DESCRIPTION:Late set\, 1am-3:30am. $5 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-46@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-36@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261121T150000
 DTEND;TZID=America/Chicago:20261121T170000
 SUMMARY:Paper Machete
@@ -466,8 +366,8 @@ DESCRIPTION:FREE. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-47@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-37@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261122T010000
 DTEND;TZID=America/Chicago:20261122T040000
 SUMMARY:Righteous Rooster Organ Trio
@@ -476,8 +376,8 @@ DESCRIPTION:Late set\, 1am-4am. $5 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-48@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-38@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261122T160000
 DTEND;TZID=America/Chicago:20261122T180000
 SUMMARY:Chicago Jazz Composers Collective 25th Anniversary
@@ -486,8 +386,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-49@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-39@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261122T200000
 DTEND;TZID=America/Chicago:20261123T000000
 SUMMARY:Soul Message
@@ -496,18 +396,18 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-50@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-40@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261123T200000
 DTEND;TZID=America/Chicago:20261124T000000
-SUMMARY:Joel Patterson & Friends
+SUMMARY:Natalie Scharf and Friends
 LOCATION:Green Mill\, 4802 N Broadway\, Chicago
 DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-51@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-41@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261124T200000
 DTEND;TZID=America/Chicago:20261125T000000
 SUMMARY:Chicago Cellar Boys
@@ -516,8 +416,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-52@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-42@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261125T200000
 DTEND;TZID=America/Chicago:20261126T000000
 SUMMARY:Alfonso Ponticelli
@@ -526,8 +426,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-53@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-43@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261126T170000
 DTEND;TZID=America/Chicago:20261126T193000
 SUMMARY:Andy Brown
@@ -536,8 +436,8 @@ DESCRIPTION:5pm-7:30pm set. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-54@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-44@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261127T171500
 DTEND;TZID=America/Chicago:20261127T190000
 SUMMARY:Chris Foreman
@@ -546,8 +446,8 @@ DESCRIPTION:5:15pm-7pm set. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-55@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-45@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261127T200000
 DTEND;TZID=America/Chicago:20261128T000000
 SUMMARY:Jerry Weldon/Dave Schumacher Organ Quartet
@@ -556,8 +456,8 @@ DESCRIPTION:Green Mill Cocktail Lounge. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-56@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-46@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261128T010000
 DTEND;TZID=America/Chicago:20261128T033000
 SUMMARY:Green Mill Jam Session with Marquis Hill
@@ -566,8 +466,8 @@ DESCRIPTION:Late set\, 1am-3:30am. $5 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-57@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-47@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261128T150000
 DTEND;TZID=America/Chicago:20261128T170000
 SUMMARY:Paper Machete
@@ -576,8 +476,8 @@ DESCRIPTION:FREE. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-58@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-48@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261129T010000
 DTEND;TZID=America/Chicago:20261129T040000
 SUMMARY:Righteous Rooster Organ Trio
@@ -586,8 +486,8 @@ DESCRIPTION:Late set\, 1am-4am. $5 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-59@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-49@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261129T200000
 DTEND;TZID=America/Chicago:20261130T000000
 SUMMARY:Soul Message
@@ -596,18 +496,18 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-60@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-50@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261130T200000
 DTEND;TZID=America/Chicago:20261201T000000
-SUMMARY:Joel Patterson & Friends
+SUMMARY:Natalie Scharf and Friends
 LOCATION:Green Mill\, 4802 N Broadway\, Chicago
 DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-61@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-51@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261201T200000
 DTEND;TZID=America/Chicago:20261202T000000
 SUMMARY:Chicago Cellar Boys
@@ -616,8 +516,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-62@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-52@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261202T200000
 DTEND;TZID=America/Chicago:20261203T000000
 SUMMARY:Alfonso Ponticelli
@@ -626,8 +526,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-63@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-53@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261203T170000
 DTEND;TZID=America/Chicago:20261203T193000
 SUMMARY:Andy Brown
@@ -636,8 +536,8 @@ DESCRIPTION:5pm-7:30pm set. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-64@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-54@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261203T200000
 DTEND;TZID=America/Chicago:20261204T000000
 SUMMARY:Alan Gresik's Swing Orchestra
@@ -646,8 +546,8 @@ DESCRIPTION:$10 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-65@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-55@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261204T171500
 DTEND;TZID=America/Chicago:20261204T190000
 SUMMARY:Chris Foreman
@@ -656,8 +556,8 @@ DESCRIPTION:5:15pm-7pm set. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-66@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-56@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261204T200000
 DTEND;TZID=America/Chicago:20261205T000000
 SUMMARY:The Chicago Soul Jazz Collective with LaShera Ellis
@@ -666,8 +566,8 @@ DESCRIPTION:Green Mill Cocktail Lounge. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-67@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-57@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261205T010000
 DTEND;TZID=America/Chicago:20261205T033000
 SUMMARY:Green Mill Jam Session with Marquis Hill
@@ -676,8 +576,8 @@ DESCRIPTION:Late set\, 1am-3:30am. $5 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-68@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-58@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261205T150000
 DTEND;TZID=America/Chicago:20261205T170000
 SUMMARY:Paper Machete
@@ -686,8 +586,8 @@ DESCRIPTION:FREE. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-69@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-59@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261205T200000
 DTEND;TZID=America/Chicago:20261206T000000
 SUMMARY:The Chicago Soul Jazz Collective with Dee Alexander
@@ -696,8 +596,8 @@ DESCRIPTION:Green Mill Cocktail Lounge. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-70@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-60@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261206T010000
 DTEND;TZID=America/Chicago:20261206T040000
 SUMMARY:Righteous Rooster Organ Trio
@@ -706,18 +606,8 @@ DESCRIPTION:Late set\, 1am-4am. $5 cover. Source: Green Mill.
 URL:https://greenmilljazz.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-71@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261109T190000
-DTEND;TZID=America/Chicago:20261109T220000
-SUMMARY:The Monday Jam hosted by Danny G Felix
-LOCATION:Le Piano\, 6970 N Glenwood Ave\, Chicago
-DESCRIPTION:$10 cover. Source: ChicagoJazz.com.
-URL:https://www.chicagojazz.com/jazz-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-72@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-61@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261116T190000
 DTEND;TZID=America/Chicago:20261116T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -726,8 +616,8 @@ DESCRIPTION:$10 cover. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-73@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-62@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261123T190000
 DTEND;TZID=America/Chicago:20261123T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -736,8 +626,8 @@ DESCRIPTION:$10 cover. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-74@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-63@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261130T190000
 DTEND;TZID=America/Chicago:20261130T220000
 SUMMARY:The Monday Jam hosted by Danny G Felix
@@ -746,28 +636,8 @@ DESCRIPTION:$10 cover. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-75@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T180000
-DTEND;TZID=America/Chicago:20261112T210000
-SUMMARY:WDCB Jazz Night — Labriola Ristorante
-LOCATION:Labriola Ristorante\, 3011 Butterfield Rd\, Oak Brook\, IL
-DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
-URL:https://www.chicagojazz.com/jazz-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-76@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T180000
-DTEND;TZID=America/Chicago:20261112T210000
-SUMMARY:WDCB Jazz Thursdays — Adelle's
-LOCATION:Adelle's Modern Kitchen + Bar\, 535 W Liberty Dr\, Wheaton\, IL
-DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
-URL:https://www.chicagojazz.com/jazz-calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-77@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-64@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261119T180000
 DTEND;TZID=America/Chicago:20261119T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -776,8 +646,8 @@ DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-78@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-65@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261119T180000
 DTEND;TZID=America/Chicago:20261119T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -786,8 +656,8 @@ DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-79@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-66@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261126T180000
 DTEND;TZID=America/Chicago:20261126T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -796,8 +666,8 @@ DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-80@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-67@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261126T180000
 DTEND;TZID=America/Chicago:20261126T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -806,8 +676,8 @@ DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-81@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-68@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261203T180000
 DTEND;TZID=America/Chicago:20261203T210000
 SUMMARY:WDCB Jazz Night — Labriola Ristorante
@@ -816,8 +686,8 @@ DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-82@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-69@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261203T180000
 DTEND;TZID=America/Chicago:20261203T210000
 SUMMARY:WDCB Jazz Thursdays — Adelle's
@@ -826,18 +696,8 @@ DESCRIPTION:WDCB Jazz Thursdays. Source: ChicagoJazz.com.
 URL:https://www.chicagojazz.com/jazz-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-83@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261109T190000
-DTEND;TZID=America/Chicago:20261109T210000
-SUMMARY:The Brown Derby Jazz Series Presents Ivan Taylor
-LOCATION:Little Black Pearl Art And Design Academy\, 1060 E 47th St\, Chicago
-DESCRIPTION:From $23.18. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
-URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-84@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-70@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261117T193000
 DTEND;TZID=America/Chicago:20261117T213000
 SUMMARY:Rodrigo Romero and Organic Chemistry Live at FSC
@@ -846,8 +706,8 @@ DESCRIPTION:Check ticket price. Source: Eventbrite Chicago jazz events. Source: 
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-85@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-71@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T210000
 SUMMARY:Live Music w/Minority Exchange
@@ -856,8 +716,8 @@ DESCRIPTION:Check ticket price. Source: Eventbrite Chicago jazz events. Source: 
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-86@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-72@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T210000
 SUMMARY:En Tiempo con Henry
@@ -866,8 +726,8 @@ DESCRIPTION:Free (2-for-1 deal). Source: Eventbrite Chicago jazz events. Source:
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-87@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-73@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261203T170000
 DTEND;TZID=America/Chicago:20261203T183000
 SUMMARY:Jade Maze's Holiday Golden Hour w/ Chris Mahieu
@@ -876,8 +736,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-88@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-74@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261220T200000
 DTEND;TZID=America/Chicago:20261220T220000
 SUMMARY:Freedom From and Freedom To
@@ -886,28 +746,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-89@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261111T193000
-DTEND;TZID=America/Chicago:20261111T213000
-SUMMARY:Ellie Rui Quartet and Prabir Mehta Trio
-LOCATION:Fulton Street Collective\, 1820 W Fulton St\, Chicago
-DESCRIPTION:$15. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
-URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-90@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T193000
-DTEND;TZID=America/Chicago:20261112T213000
-SUMMARY:Diego Rodriguez Big Band Live at FSC
-LOCATION:Fulton Street Collective\, 1820 W Fulton St\, Chicago
-DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
-URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-91@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-75@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261116T190000
 DTEND;TZID=America/Chicago:20261116T210000
 SUMMARY:CCPA New Deal & Latin Jazz
@@ -916,8 +756,8 @@ DESCRIPTION:From $5.00. Source: Eventbrite Chicago jazz events. Source: Eventbri
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-92@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-76@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261116T193000
 DTEND;TZID=America/Chicago:20261116T213000
 SUMMARY:Jazz Combos (UIC)
@@ -926,8 +766,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-93@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-77@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T213000
 SUMMARY:Jazz Ensemble and Combo (UIC)
@@ -936,8 +776,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-94@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-78@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261118T193000
 DTEND;TZID=America/Chicago:20261118T213000
 SUMMARY:Greg Artry Quartet Live at FSC
@@ -946,8 +786,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-95@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-79@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261117T193000
 DTEND;TZID=America/Chicago:20261117T213000
 SUMMARY:Bishu Chattopadhyay Trio Album Release Performance at FSC
@@ -956,18 +796,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-96@perplexity
-DTSTAMP:20261109T140449Z
-DTSTART;TZID=America/Chicago:20261112T203000
-DTEND;TZID=America/Chicago:20261112T223000
-SUMMARY:IMS: Chad Kouri & Ben Lamar Gay\, Willis / Worthington / Naylor / Jesalva
-LOCATION:Elastic Arts\, 2832 N Milwaukee Ave\, Chicago
-DESCRIPTION:From $10.00. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
-URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
-END:VEVENT
-BEGIN:VEVENT
-UID:chijazz-97@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-80@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261212T170000
 DTEND;TZID=America/Chicago:20261212T183000
 SUMMARY:Golden Hour Featuring Lizzi Trumbore
@@ -976,8 +806,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-98@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-81@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T213000
 SUMMARY:Vocal Jazz Ensemble and Combo (UIC)
@@ -986,8 +816,8 @@ DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-99@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-82@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261208T190000
 DTEND;TZID=America/Chicago:20261208T210000
 SUMMARY:Holiday Rhythms 2026 @ The Jazz Showcase
@@ -996,8 +826,8 @@ DESCRIPTION:From $55.20. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-100@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-83@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261209T190000
 DTEND;TZID=America/Chicago:20261209T210000
 SUMMARY:Holiday Rhythms 2026 @ The Jazz Showcase
@@ -1006,8 +836,8 @@ DESCRIPTION:From $55.20. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-101@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-84@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261213T143000
 DTEND;TZID=America/Chicago:20261213T163000
 SUMMARY:Jo Ann Daugherty Jazz Trio | Printmaker Deborah Maris Lader
@@ -1016,8 +846,8 @@ DESCRIPTION:From $33.85. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-102@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-85@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20270117T143000
 DTEND;TZID=America/Chicago:20270117T163000
 SUMMARY:Apasionado Duo | Artist Anne Leuck (tango\, jazz & global sounds)
@@ -1026,8 +856,8 @@ DESCRIPTION:From $33.85. Source: Eventbrite Chicago jazz events. Source: Eventbr
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-103@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-86@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261203T190000
 DTEND;TZID=America/Chicago:20261203T210000
 SUMMARY:Charles Heath Presents: The Next Generation of Jazz
@@ -1036,8 +866,8 @@ DESCRIPTION:From $7.18. Source: Eventbrite Chicago jazz events. Source: Eventbri
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-104@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-87@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261205T120000
 DTEND;TZID=America/Chicago:20261205T170000
 SUMMARY:CCPA JazzFest
@@ -1046,8 +876,8 @@ DESCRIPTION:From $5.00. Source: Eventbrite Chicago jazz events. Source: Eventbri
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-105@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-88@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261211T190000
 DTEND;TZID=America/Chicago:20261211T210000
 SUMMARY:Ricano Vol. II by Jonathan Suazo
@@ -1056,12 +886,32 @@ DESCRIPTION:Free (2-for-1 deal). Source: Eventbrite Chicago jazz events. Source:
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
 BEGIN:VEVENT
-UID:chijazz-106@perplexity
-DTSTAMP:20261109T140449Z
+UID:chijazz-89@perplexity
+DTSTAMP:20261116T141212Z
 DTSTART;TZID=America/Chicago:20261217T170000
 DTEND;TZID=America/Chicago:20261217T183000
 SUMMARY:Golden Hour Featuring An Evening of Jazz with Brian Citro
 LOCATION:Epiphany Center for the Arts\, 201 S Ashland Ave\, Chicago
+DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-90@perplexity
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261208T190000
+DTEND;TZID=America/Chicago:20261208T210000
+SUMMARY:Touch of Funk — a jazz cabaret at Dorothy
+LOCATION:Dorothy\, Chicago
+DESCRIPTION:From $17.88. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
+URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:chijazz-91@perplexity
+DTSTAMP:20261116T141212Z
+DTSTART;TZID=America/Chicago:20261219T183000
+DTEND;TZID=America/Chicago:20261219T220000
+SUMMARY:An Evening of Luxury Soul & Jazz
+LOCATION:BASSLINE 2239\, 2239 S Michigan Ave\, Chicago
 DESCRIPTION:Free. Source: Eventbrite Chicago jazz events. Source: Eventbrite.
 URL:https://www.eventbrite.com/d/il--chicago/jazz-events/
 END:VEVENT
