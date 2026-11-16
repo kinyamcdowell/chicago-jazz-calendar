@@ -27,209 +27,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0348166fc39725c2@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261111T190000
-DTEND;TZID=America/Chicago:20261111T230000
-SUMMARY:Kai Castro
-LOCATION:Spybar\, 646 N Franklin St\, Chicago\, IL 60654
-DESCRIPTION:Free. 21+. Info/tickets: https://19hz.info/eventlisting_CHI.php
-URL:https://19hz.info/eventlisting_CHI.php
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:1d33bfc5130bfd7c@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261113T210000
-DTEND;TZID=America/Chicago:20261114T020000
-SUMMARY:House Party [Chicago]
-LOCATION:Subterranean\, 2011 W North Ave\, Chicago\, IL
-DESCRIPTION:From $20.98. Info/tickets: https://www.eventbrite.com/e/house-p
- arty-chicago-tickets-1994422471300
-URL:https://www.eventbrite.com/e/house-party-chicago-tickets-1994422471300
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:152f7e2b06b4261c@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261113T210000
-DTEND;TZID=America/Chicago:20261114T020000
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261226T055959Z
-SUMMARY:House Party at Meeting House Tavern (weekly Fridays)
-LOCATION:Meeting House Tavern\, 5025 N Clark St\, Chicago\, IL
-DESCRIPTION:Weekly Friday house night in Andersonville. Info/tickets: https
- ://gathryapp.com/chicago/meeting-house-tavern/s/house-party?date=26-12-11
-URL:https://gathryapp.com/chicago/meeting-house-tavern/s/house-party?date=2
- 6-12-11
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:17ce880b7d21c492@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261113T210000
-DTEND;TZID=America/Chicago:20261114T020000
-SUMMARY:Queen Méabh's House Party
-LOCATION:Schubas\, 3159 N Southport Ave\, Chicago\, IL
-DESCRIPTION:House party at Schubas. Info/tickets: https://5mag.net/calendar
- s/chicago-house-music-events-calendar/
-URL:https://5mag.net/calendars/chicago-house-music-events-calendar/
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:319b394fed9075bd@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261113T220000
-DTEND;TZID=America/Chicago:20261114T020000
-SUMMARY:Elderbrook (DJ Set)
-LOCATION:Tao Chicago\, 632 N Dearborn St\, Chicago\, IL
-DESCRIPTION:House / dance. ~$70. 21+. Info/tickets: https://19hz.info/event
- listing_CHI.php
-URL:https://19hz.info/eventlisting_CHI.php
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:278a90ce7572aca6@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261113T220000
-DTEND;TZID=America/Chicago:20261114T020000
-SUMMARY:Janky's House
-LOCATION:Replay Lakeview\, 3439 N Halsted St\, Chicago\, IL
-DESCRIPTION:Free house night. Info/tickets: https://www.eventbrite.com/e/ja
- nkys-house-tickets-1989607542719
-URL:https://www.eventbrite.com/e/jankys-house-tickets-1989607542719
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:ed2e7bcf4fde95a6@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261113T220000
-DTEND;TZID=America/Chicago:20261114T040000
-SUMMARY:Pedroz
-LOCATION:Spybar\, 646 N Franklin St\, Chicago\, IL 60654
-DESCRIPTION:$20. Info/tickets: https://19hz.info/eventlisting_CHI.php
-URL:https://19hz.info/eventlisting_CHI.php
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:1cde87a4e54fbf23@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261114T160000
-DTEND;TZID=America/Chicago:20261114T210000
-SUMMARY:A Day of House
-LOCATION:Bassline 2239\, 2239 S Michigan Ave\, Chicago\, IL
-DESCRIPTION:Afternoon house party. Info/tickets: https://www.eventbrite.com
- /e/a-day-of-house-tickets-2003538445424
-URL:https://www.eventbrite.com/e/a-day-of-house-tickets-2003538445424
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:bf9fcbcd22b094f7@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261114T160000
-DTEND;TZID=America/Chicago:20261114T220000
-SUMMARY:A House Music Is Love Day Party: Mike Dunn\, Psycho B\, Lego\, Jevo
- n Jackson
-LOCATION:Le Nocturne Chicago\, 4810 N Broadway\, Chicago\, IL 60640
-DESCRIPTION:Day party with house music titans. 21+. From $12.51. Info/ticke
- ts: https://www.eventbrite.com/e/a-house-music-is-love-day-party-stacked-w
- -house-music-titans-tickets-2002853708357
-URL:https://www.eventbrite.com/e/a-house-music-is-love-day-party-stacked-w-
- house-music-titans-tickets-2002853708357
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:396289112f5863b7@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261114T190000
-DTEND;TZID=America/Chicago:20261115T000000
-SUMMARY:1 DJ 1 Night Goes Deep! ft. Vick Lavender
-LOCATION:917 W 18th St\, Chicago\, IL
-DESCRIPTION:Deep & soulful house extended set\; live performance by Angel-A
- . From $23.18. Info/tickets: https://www.eventbrite.com/e/1-dj-1-night-goe
- s-deep-featuring-vick-lavender-tickets-2004257725811
-URL:https://www.eventbrite.com/e/1-dj-1-night-goes-deep-featuring-vick-lave
- nder-tickets-2004257725811
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:ecb36f5ee444a7a6@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261114T210000
-DTEND;TZID=America/Chicago:20261115T020000
-SUMMARY:Out Cold Vol 9: Bad Boy Bill\, Kings Of Class & more (80s Ski Rave)
-LOCATION:Impact Fuel Room\, Libertyville\, IL
-DESCRIPTION:Chicago house legend Bad Boy Bill. 21+. ~$38.80. Info/tickets: 
- https://19hz.info/eventlisting_CHI.php
-URL:https://19hz.info/eventlisting_CHI.php
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:263a33eb83b5621d@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261114T220000
-DTEND;TZID=America/Chicago:20261115T020000
-SUMMARY:House Calls: Caleb Jackson b2b D Stone
-LOCATION:868 N Franklin St\, Chicago\, IL
-DESCRIPTION:Start time not published\; check listing. Info/tickets: https:/
- /5mag.net/calendars/chicago-house-music-events-calendar/
-URL:https://5mag.net/calendars/chicago-house-music-events-calendar/
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:e0a6f748fff5969e@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261114T220000
-DTEND;TZID=America/Chicago:20261115T043000
-SUMMARY:Marten Hørger
-LOCATION:Hideaway\, Chicago
-DESCRIPTION:Melodic house. ~$23.18. Info/tickets: https://19hz.info/eventli
- sting_CHI.php
-URL:https://19hz.info/eventlisting_CHI.php
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:b41634400666bcda@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261114T230000
-DTEND;TZID=America/Chicago:20261115T050000
-SUMMARY:Dan Slater Live: House\, Circuit & Tech House
-LOCATION:Hydrate Nightclub\, 3458 N Halsted St\, Chicago\, IL
-DESCRIPTION:House / circuit / tech house dance party. Info/tickets: https:/
- /www.eventbrite.com/e/dan-slater-live-house-circuit-tech-house-dance-party
- -tickets-2003871853657
-URL:https://www.eventbrite.com/e/dan-slater-live-house-circuit-tech-house-d
- ance-party-tickets-2003871853657
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:efb1a57a7ee9365e@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261115T150000
-DTEND;TZID=America/Chicago:20261115T190000
-SUMMARY:Sunday Service with DJ Duane Powell
-LOCATION:The Land School\, 7200 S Dorchester Ave\, Chicago\, IL
-DESCRIPTION:House & soul in Chicago's house-party lineage. Info/tickets: ht
- tps://www.eventbrite.com/e/sunday-service-with-dj-duane-powell-tickets-200
- 3975414410
-URL:https://www.eventbrite.com/e/sunday-service-with-dj-duane-powell-ticket
- s-2003975414410
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
-UID:3d83349da2f889a2@chicago-house-calendar
-DTSTAMP:20261109T150242Z
-DTSTART;TZID=America/Chicago:20261115T220000
-DTEND;TZID=America/Chicago:20261116T030000
-SUMMARY:Queen! ft. Derrick Carter\, Michael Serafini\, T Mixwell
-LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
-DESCRIPTION:Smartbar's Sunday house residency. $15-20. 21+. Info/tickets: h
- ttps://smartbarchicago.com/
-URL:https://smartbarchicago.com/
-CATEGORIES:House Music
-END:VEVENT
-BEGIN:VEVENT
 UID:3bee3c6795fc80b7@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261120T210000
 DTEND;TZID=America/Chicago:20261121T020000
 SUMMARY:House Calls: Laidlaw & Boss Priester
@@ -240,8 +39,22 @@ URL:https://5mag.net/calendars/chicago-house-music-events-calendar/
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:bad7ab8504e67d94@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261120T210000
+DTEND;TZID=America/Chicago:20261121T020000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261226T055959Z
+SUMMARY:House Party at Meeting House Tavern (weekly Fridays)
+LOCATION:Meeting House Tavern\, 5025 N Clark St\, Chicago\, IL
+DESCRIPTION:Weekly Friday house night in Andersonville. Info/tickets: https
+ ://gathryapp.com/chicago/meeting-house-tavern/s/house-party?date=26-12-11
+URL:https://gathryapp.com/chicago/meeting-house-tavern/s/house-party?date=2
+ 6-12-11
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:ae513dcef5c2516e@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261120T220000
 DTEND;TZID=America/Chicago:20261121T030000
 SUMMARY:Prospa presents Prophecy
@@ -253,7 +66,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:fe3ad3d3b16e6062@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261120T220000
 DTEND;TZID=America/Chicago:20261121T040000
 SUMMARY:Luke Alexander
@@ -263,8 +76,20 @@ URL:https://19hz.info/eventlisting_CHI.php
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:3a22a1b71ca02672@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261121T190000
+DTEND;TZID=America/Chicago:20261121T230000
+SUMMARY:Vinyl Sessions: Soulphonetics
+LOCATION:Parachute Hifi\, Chicago
+DESCRIPTION:All-vinyl deep house set. Free. 21+. Info/tickets: https://19hz
+ .info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:5c5a87ce6d227764@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261121T210000
 DTEND;TZID=America/Chicago:20261122T020000
 SUMMARY:Gold Room 10 Year Anniversary w/ Felix Da Housecat
@@ -275,7 +100,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:75b063621dc01c5f@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261121T210000
 DTEND;TZID=America/Chicago:20261122T020000
 SUMMARY:Synchronized Swimming x Nervous Records
@@ -286,7 +111,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:b13f53857d09fa90@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261121T220000
 DTEND;TZID=America/Chicago:20261122T040000
 SUMMARY:Nathan Scott
@@ -298,7 +123,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:4c0dd4029ff330fe@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261121T220000
 DTEND;TZID=America/Chicago:20261122T050000
 SUMMARY:Louie Vega (All Night)
@@ -309,8 +134,22 @@ URL:https://smartbarchicago.com/
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:87f84ca3f2709239@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261121T230000
+DTEND;TZID=America/Chicago:20261122T050000
+SUMMARY:Ben Bakson Live at Hydrate: High-Energy House Dance Party
+LOCATION:Hydrate Nightclub\, 3458 N Halsted St\, Chicago\, IL
+DESCRIPTION:21+. ~$28.52. Info/tickets: https://www.eventbrite.com/e/ben-ba
+ kson-live-at-hydrate-high-energy-house-music-dance-party-tickets-200387188
+ 2744
+URL:https://www.eventbrite.com/e/ben-bakson-live-at-hydrate-high-energy-hou
+ se-music-dance-party-tickets-2003871882744
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:2d1360a32d08c61a@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261122T220000
 DTEND;TZID=America/Chicago:20261123T030000
 SUMMARY:Queen! ft. Derrick Carter\, Michael Serafini\, Tripmastaz
@@ -322,7 +161,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:910c0ae0d977c937@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261124T190000
 DTEND;TZID=America/Chicago:20261124T230000
 SUMMARY:John Summit
@@ -334,7 +173,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:e1ddcd88cde41cb7@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261125T190000
 DTEND;TZID=America/Chicago:20261126T020000
 SUMMARY:Thanksgiving Eve with a Massive House Music DJ Lineup
@@ -347,7 +186,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:75cd9c895481f32d@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261125T200000
 DTEND;TZID=America/Chicago:20261126T000000
 SUMMARY:John Summit
@@ -359,7 +198,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:16bfebefbda88174@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261125T210000
 DTEND;TZID=America/Chicago:20261126T020000
 SUMMARY:Neon Oasis: Reggaeton\, Latin House\, Latin Hits
@@ -372,7 +211,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:4b0dd05a0d56d7e6@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261125T220000
 DTEND;TZID=America/Chicago:20261126T033000
 SUMMARY:Cedric Gervais
@@ -384,7 +223,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:16448ad2540af7cf@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261125T220000
 DTEND;TZID=America/Chicago:20261126T040000
 SUMMARY:Things That Go Bump In The Night with Derrick Carter
@@ -396,7 +235,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:2455d50360de91e9@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261127T200000
 DTEND;TZID=America/Chicago:20261128T020000
 SUMMARY:Black Friday "The Journey" w/ Craig Loftis & Greg Gray
@@ -409,7 +248,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:cc4e52e17d14e9c4@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261127T210000
 DTEND;TZID=America/Chicago:20261128T020000
 SUMMARY:Tchami
@@ -421,7 +260,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:267a8f3765fc0188@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261127T220000
 DTEND;TZID=America/Chicago:20261128T020000
 SUMMARY:Daniel Allan (360° Set)
@@ -432,7 +271,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:36a1eb2fd13ef7ea@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261127T220000
 DTEND;TZID=America/Chicago:20261128T030000
 SUMMARY:Josh Baker
@@ -444,7 +283,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:34f9f7fefe0c0755@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261127T220000
 DTEND;TZID=America/Chicago:20261128T040000
 SUMMARY:Eelke Kleijn
@@ -456,7 +295,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:e0b7e347e64b022a@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261128T160000
 DTEND;TZID=America/Chicago:20261128T220000
 SUMMARY:A Chosen Few DJs House Music Day Party
@@ -469,7 +308,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:9821975383615f7d@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261128T183000
 DTEND;TZID=America/Chicago:20261128T213000
 SUMMARY:Soulful Holiday Lights Trolley: Motown\, R&B & House
@@ -483,7 +322,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:50d8cc9ddd632e13@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261128T200000
 DTEND;TZID=America/Chicago:20261129T030000
 SUMMARY:Velvet Hours w/ Aaron Antoniou & Sean Parks
@@ -496,7 +335,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:4fde73c019f8e115@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261128T220000
 DTEND;TZID=America/Chicago:20261129T030000
 SUMMARY:Miester presents BACKROOM 001: D-Unity\, Miester & Bulat
@@ -510,7 +349,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:bfe5f2dd86823b32@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261128T220000
 DTEND;TZID=America/Chicago:20261129T050000
 SUMMARY:Mushroom Jazz ft. Mark Farina\, DJ Heather\, Michael Serafini
@@ -522,7 +361,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:5f1edad820a89af3@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261128T220000
 DTEND;TZID=America/Chicago:20261129T050000
 SUMMARY:Rafa Barrios
@@ -533,7 +372,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:e10ef37e4f5edfaf@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261129T160000
 DTEND;TZID=America/Chicago:20261129T210000
 SUMMARY:Speakeasy House Radio x Gorilla Gay Bar: Sunday Therapy w/ DJ Holog
@@ -547,7 +386,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:08fd1f268d46ee2f@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261129T220000
 DTEND;TZID=America/Chicago:20261130T030000
 SUMMARY:Queen! ft. Derrick Carter\, Michael Serafini\, Shaun J Wright
@@ -559,7 +398,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:668a57ef044fb8f5@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261204T220000
 DTEND;TZID=America/Chicago:20261205T030000
 SUMMARY:Seth Troxler\, Hiroko Yamamura
@@ -570,7 +409,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:7c2b6405b1eb620f@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261205T190000
 DTEND;TZID=America/Chicago:20261205T230000
 SUMMARY:Shedd Aquarium Holiday House Party: Dee Jay Alicia & DJ Ron Troupe
@@ -583,7 +422,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:ece79a6e806d48ca@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261205T203000
 DTEND;TZID=America/Chicago:20261206T010000
 SUMMARY:First Saturdays w/ Tim Spinnin Schommer: House & Freestyle w/ DJ Co
@@ -598,7 +437,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:e0a2902b951bc0bd@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261205T210000
 DTEND;TZID=America/Chicago:20261206T020000
 SUMMARY:House Calls 'In The Round' w/ Enzo Siragusa
@@ -609,7 +448,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:0c058f163a8cdcea@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261205T220000
 DTEND;TZID=America/Chicago:20261206T040000
 SUMMARY:House Music Is Home: DJ Sneak\, Terry Hunter\, Gene Hunt\, Mark Ang
@@ -624,7 +463,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:5743d6f4f120a229@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261205T230000
 DTEND;TZID=America/Chicago:20261206T043000
 SUMMARY:Toy Tonics: Chicago Jam
@@ -634,8 +473,33 @@ URL:https://19hz.info/eventlisting_CHI.php
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:e7bc36c1a3b2b02e@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261206T220000
+DTEND;TZID=America/Chicago:20261207T030000
+SUMMARY:Queen! ft. D'Julz\, Janky\, Michael Serafini
+LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
+DESCRIPTION:Smartbar's Sunday house residency. $15-20. 21+. Info/tickets: h
+ ttps://smartbarchicago.com/
+URL:https://smartbarchicago.com/
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:5e5f8d09cf34427f@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261211T183000
+DTEND;TZID=America/Chicago:20261211T213000
+SUMMARY:Soulful Holiday Lights Trolley: Motown\, R&B & House
+LOCATION:230 W North Ave\, Chicago\, IL
+DESCRIPTION:Added date. Info/tickets: https://www.eventbrite.com/e/soulful-
+ holiday-lights-trolley-celebrating-motown-r-b-house-tickets-1997931131798
+URL:https://www.eventbrite.com/e/soulful-holiday-lights-trolley-celebrating
+ -motown-r-b-house-tickets-1997931131798
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:5db675d7072bb24f@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261211T200000
 DTEND;TZID=America/Chicago:20261212T000000
 SUMMARY:Amtrac
@@ -646,7 +510,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:ca46615353be8a69@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261211T210000
 DTEND;TZID=America/Chicago:20261212T020000
 SUMMARY:House Calls w/ Arapu
@@ -657,7 +521,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:77501d808cbb6196@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261211T210000
 DTEND;TZID=America/Chicago:20261212T030000
 SUMMARY:elrow: Matt Sassari\, Nic Fanciulli\, Sonny Fodera\, Eats Everythin
@@ -668,8 +532,20 @@ URL:https://19hz.info/eventlisting_CHI.php
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:9cd040d60780ff65@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261211T220000
+DTEND;TZID=America/Chicago:20261212T040000
+SUMMARY:Horse Meat Disco\, Shaun J Wright\, Sunshine Rewind
+LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
+DESCRIPTION:Disco & house. $20-25. 21+. Info/tickets: https://smartbarchica
+ go.com/
+URL:https://smartbarchicago.com/
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:4107b8a9f42bcd7a@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261212T160000
 DTEND;TZID=America/Chicago:20261212T220000
 SUMMARY:A House Music Is Love Day Party: Alan King\, Duane Powell\, Julius 
@@ -683,7 +559,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:2170856373c1c437@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261212T210000
 DTEND;TZID=America/Chicago:20261213T030000
 SUMMARY:elrow: Armand Van Helden\, Bastian Bux\, Marco Faraone & more
@@ -695,8 +571,20 @@ URL:https://nightout.com/events/v/elrow-radius-chicago-chicago-2026-12-12/t
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:a412d5fe534b2c3b@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261213T220000
+DTEND;TZID=America/Chicago:20261214T030000
+SUMMARY:Queen! ft. Jonny Rock\, Michael Serafini\, Shaun J Wright
+LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
+DESCRIPTION:Smartbar's Sunday house residency. $15-20. 21+. Info/tickets: h
+ ttps://smartbarchicago.com/
+URL:https://smartbarchicago.com/
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:6072e000ff50ee49@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261218T220000
 DTEND;TZID=America/Chicago:20261219T040000
 SUMMARY:Hans Glader
@@ -706,8 +594,20 @@ URL:https://19hz.info/eventlisting_CHI.php
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:cb6cedb22486684d@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261218T220000
+DTEND;TZID=America/Chicago:20261219T050000
+SUMMARY:Theo Parrish (All Night Long)
+LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
+DESCRIPTION:Detroit deep house legend. $30-35. 21+. Info/tickets: https://s
+ martbarchicago.com/
+URL:https://smartbarchicago.com/
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:c2b14fc5faf4e3c9@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261219T160000
 DTEND;TZID=America/Chicago:20261219T210000
 SUMMARY:Colette\, DJ Heather\, Diz & Wyser
@@ -718,8 +618,122 @@ URL:https://19hz.info/eventlisting_CHI.php
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:d9070b21aab64907@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261219T220000
+DTEND;TZID=America/Chicago:20261220T050000
+SUMMARY:t4tluvnrg ft. Eris Drew b2b Octo Octa\, Madeline
+LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
+DESCRIPTION:House / breaks. $20-25. 21+. Info/tickets: https://smartbarchic
+ ago.com/
+URL:https://smartbarchicago.com/
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:6139c6b1ff89b6bf@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261220T220000
+DTEND;TZID=America/Chicago:20261221T040000
+SUMMARY:Queen! ft. Honey Dijon\, Derrick Carter\, Michael Serafini
+LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
+DESCRIPTION:Smartbar's Sunday house residency\, special guest Honey Dijon. 
+ $20-25. 21+. Info/tickets: https://smartbarchicago.com/
+URL:https://smartbarchicago.com/
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:4b30920f6ad08708@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261226T220000
+DTEND;TZID=America/Chicago:20261227T040000
+SUMMARY:Green Velvet's La La Land: Carl Craig b2b Honeyluv\, Slugg\, DJ Hea
+ ther
+LOCATION:Radius\, 640 W Cermak Rd\, Chicago\, IL 60616
+DESCRIPTION:18+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:eb4e51d2ddff09dd@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261226T220000
+DTEND;TZID=America/Chicago:20261227T040000
+SUMMARY:Transitions: 33 Below
+LOCATION:Spybar\, 646 N Franklin St\, Chicago\, IL 60654
+DESCRIPTION:$20. 21+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:759e6993545fba41@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261227T220000
+DTEND;TZID=America/Chicago:20261228T030000
+SUMMARY:Queen! ft. Mr. White\, Michael Serafini\, Shaun J Wright
+LOCATION:Smartbar\, 3730 N Clark St\, Chicago\, IL 60613
+DESCRIPTION:Smartbar's Sunday house residency. $15-20. 21+. Info/tickets: h
+ ttps://smartbarchicago.com/
+URL:https://smartbarchicago.com/
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:727b3c930d3037c6@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261228T220000
+DTEND;TZID=America/Chicago:20261229T030000
+SUMMARY:Disco Dom: DJ Harvey\, Disco Deli
+LOCATION:Radius\, 640 W Cermak Rd\, Chicago\, IL 60616
+DESCRIPTION:18+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc475fe444f3d09@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261228T220000
+DTEND;TZID=America/Chicago:20261229T030000
+SUMMARY:SG Lewis\, Derrick Carter\, Dazzle Camouflage
+LOCATION:Cermak Hall\, 640 W Cermak Rd\, Chicago\, IL
+DESCRIPTION:18+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4bf7845ca836dd@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261229T220000
+DTEND;TZID=America/Chicago:20261230T030000
+SUMMARY:Gorgon City
+LOCATION:Radius\, 640 W Cermak Rd\, Chicago\, IL 60616
+DESCRIPTION:18+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:1dcc0765045b6c08@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261229T220000
+DTEND;TZID=America/Chicago:20261230T030000
+SUMMARY:Maceo Plex + Ben UFO
+LOCATION:Cermak Hall\, 640 W Cermak Rd\, Chicago\, IL
+DESCRIPTION:18+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:81aee40cb4db302d@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261230T220000
+DTEND;TZID=America/Chicago:20261231T040000
+SUMMARY:Eve of the Eve ft. Will Clarke
+LOCATION:Spybar\, 646 N Franklin St\, Chicago\, IL 60654
+DESCRIPTION:$30. 21+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:9e1918c3591e8948@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20261231T190000
 DTEND;TZID=America/Chicago:20270101T010000
 SUMMARY:Frankie Boots NYE Party: DJ Sheron's 50 Years of House
@@ -731,8 +745,52 @@ URL:https://chicagosocialbutterflies.com/wp-events/frankie-boots-new-years-
 CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
+UID:9bf7af12ccb9d432@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261231T220000
+DTEND;TZID=America/Chicago:20270101T040000
+SUMMARY:Bushbaby (NYE)
+LOCATION:Spybar\, 646 N Franklin St\, Chicago\, IL 60654
+DESCRIPTION:$50. 21+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe48fc90587b79b@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20261231T220000
+DTEND;TZID=America/Chicago:20270101T040000
+SUMMARY:D.O.D\, Chris Luno b2b Gene Farris (NYE)
+LOCATION:Radius\, 640 W Cermak Rd\, Chicago\, IL 60616
+DESCRIPTION:18+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:cf69ee35da634e46@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20270101T220000
+DTEND;TZID=America/Chicago:20270102T030000
+SUMMARY:LP Giobbi\, Joplyn\, DJ Lady D
+LOCATION:Cermak Hall\, 640 W Cermak Rd\, Chicago\, IL
+DESCRIPTION:All ages. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
+UID:de530adbf6f07498@chicago-house-calendar
+DTSTAMP:20261116T150919Z
+DTSTART;TZID=America/Chicago:20270102T220000
+DTEND;TZID=America/Chicago:20270103T030000
+SUMMARY:Odd Mob\, Murphy's Law\, Amal Nemer b2b Facu Baez
+LOCATION:Radius\, 640 W Cermak Rd\, Chicago\, IL 60616
+DESCRIPTION:18+. Info/tickets: https://19hz.info/eventlisting_CHI.php
+URL:https://19hz.info/eventlisting_CHI.php
+CATEGORIES:House Music
+END:VEVENT
+BEGIN:VEVENT
 UID:36a52e37cc1c020c@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20270115T220000
 DTEND;TZID=America/Chicago:20270116T040000
 SUMMARY:House Music Is Home: Terry Hunter\, Mike Dunn\, Gene Hunt\, Julius 
@@ -746,7 +804,7 @@ CATEGORIES:House Music
 END:VEVENT
 BEGIN:VEVENT
 UID:e91acae611f6e2c2@chicago-house-calendar
-DTSTAMP:20261109T150242Z
+DTSTAMP:20261116T150919Z
 DTSTART;TZID=America/Chicago:20270424T190000
 DTEND;TZID=America/Chicago:20270424T220000
 SUMMARY:It's House Again: The Dopest Concert Ever
