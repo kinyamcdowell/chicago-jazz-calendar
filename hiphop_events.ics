@@ -26,577 +26,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:24fe27d231a292b6@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261116T200000
-DTEND;TZID=America/Chicago:20261116T230000
-SUMMARY:Jessie Reyez: A Little Vengeance Tour
-LOCATION:Byline Bank Aragon Ballroom\, 1106 W Lawrence Ave\, Chicago
-DESCRIPTION:R&B concert with SonReal.  Source: Ticketmaster/Live Nation. Ti
- ckets/info: https://www.livenation.com/event/vv1A7Zkf4GkeYVoGs/jessie-reye
- z-a-little-vengeance-tour
-URL:https://www.livenation.com/event/vv1A7Zkf4GkeYVoGs/jessie-reyez-a-littl
- e-vengeance-tour
-END:VEVENT
-BEGIN:VEVENT
-UID:dd87fa687ddc7dac@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261117T200000
-DTEND;TZID=America/Chicago:20261117T230000
-SUMMARY:Skilla Baby
-LOCATION:House of Blues Chicago\, 329 N Dearborn St\, Chicago
-DESCRIPTION:Hip hop concert.  Source: Ticketmaster. Tickets/info: https://w
- ww.shazam.com/event/1f9676e8-d3b0-4ba5-9306-e81386185021
-URL:https://www.shazam.com/event/1f9676e8-d3b0-4ba5-9306-e81386185021
-END:VEVENT
-BEGIN:VEVENT
-UID:26a330df0e8ed6e7@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261117T220000
-DTEND;TZID=America/Chicago:20261118T020000
-SUMMARY:DND - Tuesdays Are For Drake
-LOCATION:Bar Tabu\, 401 North Morgan Street\, Chicago
-DESCRIPTION:Join us every Tuesday night as we play Drake’s hits all night
-  long\, along with curated selections to keep the energy flowing.  Source:
-  Eventbrite. Tickets/info: https://www.eventbrite.com/e/dnd-tuesdays-are-f
- or-drake-tickets-1999617201879
-URL:https://www.eventbrite.com/e/dnd-tuesdays-are-for-drake-tickets-1999617
- 201879
-END:VEVENT
-BEGIN:VEVENT
-UID:d89a5902009be085@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261117T230000
-DTEND;TZID=America/Chicago:20261118T020000
-SUMMARY:Baddies Block Party at Charlie's Chicago
-LOCATION:Charlie's Chicago\, 3726 N. Broadway St.\, Chicago
-DESCRIPTION:Reggaeton\, R&B\, hip hop and bachata house every Tuesday at 11
-  PM with Sapphire Feliciano & Persephone Brooklyn. Free RSVP. 21+.  Source
- : Eventbrite. Tickets/info: https://www.eventbrite.com/e/baddies-block-par
- ty-at-charlies-chicago-tickets-2003862603991
-URL:https://www.eventbrite.com/e/baddies-block-party-at-charlies-chicago-ti
- ckets-2003862603991
-END:VEVENT
-BEGIN:VEVENT
-UID:0a9d4fc151d38cc5@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261118T190000
-DTEND;TZID=America/Chicago:20261118T223000
-SUMMARY:Victoria Monét: Frequency Of Love Tour
-LOCATION:Byline Bank Aragon Ballroom\, 1106 W Lawrence Ave\, Chicago
-DESCRIPTION:R&B concert.  Source: Ticketmaster/Live Nation. Tickets/info: h
- ttps://www.livenation.com/event/vv1k8Z_3bAG7XJoo/victoria-monet-frequency-
- of-love-tour
-URL:https://www.livenation.com/event/vv1k8Z_3bAG7XJoo/victoria-monet-freque
- ncy-of-love-tour
-END:VEVENT
-BEGIN:VEVENT
-UID:c7ba08924e1bba95@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261119T220000
-DTEND;TZID=America/Chicago:20261120T040000
-SUMMARY:Status Thursdays
-LOCATION:Icon Bar & Lounge\, 2247 North Lincoln Avenue\, Chicago
-DESCRIPTION:Chicago’s hottest Thursday night is here—where Latin heat m
- eets hip-hop energy every single week. Join us at Icon Bar and Lounge  Sou
- rce: Eventbrite. Tickets/info: https://www.eventbrite.com/e/status-thursda
- ys-tickets-2003413704320
-URL:https://www.eventbrite.com/e/status-thursdays-tickets-2003413704320
-END:VEVENT
-BEGIN:VEVENT
-UID:f8dc3e935bd078f1@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T180000
-DTEND;TZID=America/Chicago:20261120T193000
-SUMMARY:Unplugged: An R&B/Karaoke Happy Hour Experience
-LOCATION:VIEW Restaurant & Experience\, 1701 Roosevelt Road\, Broadview
-DESCRIPTION:Leave work at the door. Grab a drink\, grab the mic\, and let t
- he R&B vibes carry you into the weekend.  Source: Eventbrite. Tickets/info
- : https://www.eventbrite.com/e/unplugged-an-rbkaraoke-happy-hour-experienc
- e-tickets-1980268828373
-URL:https://www.eventbrite.com/e/unplugged-an-rbkaraoke-happy-hour-experien
- ce-tickets-1980268828373
-END:VEVENT
-BEGIN:VEVENT
-UID:53dc9352b931aea7@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T183000
-DTEND;TZID=America/Chicago:20261120T233000
-SUMMARY:Young Stunners - Talha Anjum - Talha Yunus - Jokhay
-LOCATION:Copernicus Center\, 5216 West Lawrence Avenue\, Chicago
-DESCRIPTION:Get ready for an epic night with Young Stunners - Talha Anjum\,
-  Talha Yunus\, and Jokhay live in the house!  Source: Eventbrite. Tickets/
- info: https://www.eventbrite.com/e/young-stunners-talha-anjum-talha-yunus-
- jokhay-tickets-1985714447366
-URL:https://www.eventbrite.com/e/young-stunners-talha-anjum-talha-yunus-jok
- hay-tickets-1985714447366
-END:VEVENT
-BEGIN:VEVENT
-UID:b1ca53b38e0904e6@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T193000
-DTEND;TZID=America/Chicago:20261120T220000
-SUMMARY:Brother Ali
-LOCATION:City Winery Chicago\, 1200 W Randolph St\, Chicago
-DESCRIPTION:Hip hop concert.  Source: City Winery. Tickets/info: https://ti
- ckets.citywinery.com/event/brother-ali-eemuww
-URL:https://tickets.citywinery.com/event/brother-ali-eemuww
-END:VEVENT
-BEGIN:VEVENT
-UID:d3d10657691b67e6@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T200000
-DTEND;TZID=America/Chicago:20261120T230000
-SUMMARY:Fetty Wap: Nostalgia Tour
-LOCATION:The Salt Shed (Indoors)\, 1357 N Elston Ave\, Chicago
-DESCRIPTION:Hip hop concert.  Source: Discotech. Tickets/info: https://app.
- discotech.me/events/38222426-fetty-wap-nostalgia-tour-at-the-salt-shed
-URL:https://app.discotech.me/events/38222426-fetty-wap-nostalgia-tour-at-th
- e-salt-shed
-END:VEVENT
-BEGIN:VEVENT
-UID:c285df22989d781d@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T200000
-DTEND;TZID=America/Chicago:20261121T000000
-SUMMARY:R&B RODEO CHICAGO: THE ULTIMATE R&B WESTERN PARTY @ WHIRLY BALL
-LOCATION:WhirlyBall\, 1825 West Webster Avenue\, Chicago
-DESCRIPTION:R&B RODEO CHICAGO: THE ULTIMATE R&B WESTERN PARTY @ WHIRLY BALL
-   Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/rb-rodeo-
- chicago-the-ultimate-rb-western-party-whirly-ball-tickets-2004245325722
-URL:https://www.eventbrite.com/e/rb-rodeo-chicago-the-ultimate-rb-western-p
- arty-whirly-ball-tickets-2004245325722
-END:VEVENT
-BEGIN:VEVENT
-UID:6460038a40e4fea1@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T210000
-DTEND;TZID=America/Chicago:20261121T020000
-SUMMARY:PROMISCUOUS - A 2000's CLUB BANGERS THROWBACKS PARTY
-LOCATION:Stereo Nightclub\, 5616 West Diversey Avenue\, Chicago
-DESCRIPTION:Ready to party like it's the year 2000?  Source: Eventbrite. Ti
- ckets/info: https://www.eventbrite.com/e/promiscuous-a-2000s-club-bangers-
- throwbacks-party-tickets-2002846228986
-URL:https://www.eventbrite.com/e/promiscuous-a-2000s-club-bangers-throwback
- s-party-tickets-2002846228986
-END:VEVENT
-BEGIN:VEVENT
-UID:6a7275a0f0c36d85@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T210000
-DTEND;TZID=America/Chicago:20261121T030000
-SUMMARY:“REALIST IN THE CITY BASH”
-LOCATION:1645 N Cicero Ave\, 1645 North Cicero Avenue\, Chicago
-DESCRIPTION:Realist In The City Bash! MoneyBoo & Friends LIVE! DJ.Dot on th
- e 1s & 2s & Surprise Celebrity Guests\, Nov 20th at The Millionaire’s Ma
- nsion!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/rea
- list-in-the-city-bash-tickets-2004373390768
-URL:https://www.eventbrite.com/e/realist-in-the-city-bash-tickets-200437339
- 0768
-END:VEVENT
-BEGIN:VEVENT
-UID:a255412a78f0856a@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T220000
-DTEND;TZID=America/Chicago:20261121T020000
-SUMMARY:Afro Fusion South Loop Edition - FREE/RSVP
-LOCATION:BASSLINE\, 2239 South Michigan Avenue\, Chicago
-DESCRIPTION:Every 3rd Friday inside Bassline  Source: Eventbrite. Tickets/i
- nfo: https://www.eventbrite.com/e/afro-fusion-south-loop-edition-freersvp-
- tickets-2002130771032
-URL:https://www.eventbrite.com/e/afro-fusion-south-loop-edition-freersvp-ti
- ckets-2002130771032
-END:VEVENT
-BEGIN:VEVENT
-UID:6b93900936847ee0@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T220000
-DTEND;TZID=America/Chicago:20261121T020000
-SUMMARY:Function Fridays@ ERA Social Club  | DJs\, Vibes\, & Nightlife Ener
- gy
-LOCATION:Era Social Club\, 416 South Clark Street\, Chicago
-DESCRIPTION:No more asking “What’s the move?” it’s here. Good music
- \, even better people\, and zero cover with RSVP . Come solo or bring your
-  crew!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/fun
- ction-fridays-era-social-club-djs-vibes-nightlife-energy-tickets-199182170
- 1327
-URL:https://www.eventbrite.com/e/function-fridays-era-social-club-djs-vibes
- -nightlife-energy-tickets-1991821701327
-END:VEVENT
-BEGIN:VEVENT
-UID:d077c21375f2d99a@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T220000
-DTEND;TZID=America/Chicago:20261121T020000
-SUMMARY:Hubbard Inn Blue Violet Fridays
-LOCATION:Hubbard Inn\, West Hubbard Street\, Chicago\, IL\, USA\, 110 West 
- Hubbard Street\, Chicago
-DESCRIPTION:Join us at Hubbard Inn Blue Violet Fridays on the SECOND FLOOR 
- for a night of drinks\, hip hop music\, and good times every Friday!  Sour
- ce: Eventbrite. Tickets/info: https://www.eventbrite.com/e/hubbard-inn-blu
- e-violet-fridays-tickets-1997031226156
-URL:https://www.eventbrite.com/e/hubbard-inn-blue-violet-fridays-tickets-19
- 97031226156
-END:VEVENT
-BEGIN:VEVENT
-UID:a96737f8ec11a6c5@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T220000
-DTEND;TZID=America/Chicago:20261121T020000
-SUMMARY:Love in the Club: 2000's Hip Hop and R&B Party
-LOCATION:House of Blues Chicago (Music Hall)\, 329 N Dearborn St\, Chicago
-DESCRIPTION:2000s hip hop and R&B dance party.  Source: Ticketmaster/Live N
- ation. Tickets/info: https://www.livenation.com/event/vv178Z_fGkMbV_lR/lov
- e-in-the-club-2000-s-hip-hop-and-r-b-party
-URL:https://www.livenation.com/event/vv178Z_fGkMbV_lR/love-in-the-club-2000
- -s-hip-hop-and-r-b-party
-END:VEVENT
-BEGIN:VEVENT
-UID:30c80ce38da90c4c@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261120T220000
-DTEND;TZID=America/Chicago:20261121T020000
-SUMMARY:SILENT “LOVE & TOXIC” PARTY CHICAGO (Love Songs • Toxic R&B 
- • Trap)
-LOCATION:BAR22\, 2244 South Michigan Avenue\, Chicago
-DESCRIPTION:CHICAGO\, WE OUTSIDE! GRAB YOUR HEADPHONES & CATCH A VIBE TO R&
- B\, HIP-HOP\, THROWBACKS & ALL THE SONGS YOU KNOW WORD FOR WORD!  Source: 
- Eventbrite. Tickets/info: https://www.eventbrite.com/e/silent-love-toxic-p
- arty-chicago-love-songs-toxic-rb-trap-tickets-2004001367035
-URL:https://www.eventbrite.com/e/silent-love-toxic-party-chicago-love-songs
- -toxic-rb-trap-tickets-2004001367035
-END:VEVENT
-BEGIN:VEVENT
-UID:322273c56f3d6167@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T170000
-DTEND;TZID=America/Chicago:20261121T200000
-SUMMARY:Bingo & Bites: 90’s Hip Hop & R&B Edition
-LOCATION:Muse Coffee Studio\, 747 South Western Avenue\, Chicago
-DESCRIPTION:Grab a bite\, play bingo\, and vibe to ’90s hip hop and R&B a
- t this in-person throwback party!  Source: Eventbrite. Tickets/info: https
- ://www.eventbrite.com/e/bingo-bites-90s-hip-hop-rb-edition-tickets-2004320
- 438386
-URL:https://www.eventbrite.com/e/bingo-bites-90s-hip-hop-rb-edition-tickets
- -2004320438386
-END:VEVENT
-BEGIN:VEVENT
-UID:d05ee3b7f7278205@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T170000
-DTEND;TZID=America/Chicago:20261121T210000
-SUMMARY:Can We Talk Saturdayz
-LOCATION:Toast It Iz\, 22 e Hubbard st Chicago IL\, Chicago
-DESCRIPTION:Can We Talk Saturdayz ☁️\nWhere the R&B hits different and 
- the vibes feel even better. ✨\n\nPull up for an afternoon of love songs 
- you know  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/c
- an-we-talk-saturdayz-tickets-2002648267879
-URL:https://www.eventbrite.com/e/can-we-talk-saturdayz-tickets-200264826787
- 9
-END:VEVENT
-BEGIN:VEVENT
-UID:f5940f41752afbb8@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T190000
-DTEND;TZID=America/Chicago:20261121T235900
-SUMMARY:Copy of The Dream Blunt Rotation - Session #19
-LOCATION:Not Not\, 3950 W Grand Ave\, Chicago
-DESCRIPTION:Session 19! Quality music\, food + more ❤️  Source: Eventbr
- ite. Tickets/info: https://www.eventbrite.com/e/copy-of-the-dream-blunt-ro
- tation-session-19-tickets-2003181452649
-URL:https://www.eventbrite.com/e/copy-of-the-dream-blunt-rotation-session-1
- 9-tickets-2003181452649
-END:VEVENT
-BEGIN:VEVENT
-UID:6dc7261127f845fc@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T190000
-DTEND;TZID=America/Chicago:20261121T223000
-SUMMARY:Dax: The Anger Management Tour
-LOCATION:House of Blues Chicago\, 329 N Dearborn St\, Chicago
-DESCRIPTION:Hip hop concert with Gifted Hands.  Source: Louder Chicago. Tic
- kets/info: https://www.louderchicago.com/event/dax-the-anger-management-to
- ur-house-of-blues-chicago-2026-11-21-2/
-URL:https://www.louderchicago.com/event/dax-the-anger-management-tour-house
- -of-blues-chicago-2026-11-21-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:b1d0fb4777c96049@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T200000
-DTEND;TZID=America/Chicago:20261122T020000
-SUMMARY:SIGNATURE SATURDAYS
-LOCATION:Mikes Place Sports Bar & Grill\, 6319 Roosevelt Road\, Berwyn
-DESCRIPTION:SIGNATURE SATURDAYS @ MIKES PLACE! 7P-12A!  Source: Eventbrite.
-  Tickets/info: https://www.eventbrite.com/e/signature-saturdays-tickets-16
- 77102933019
-URL:https://www.eventbrite.com/e/signature-saturdays-tickets-1677102933019
-END:VEVENT
-BEGIN:VEVENT
-UID:ce459a3c7f00951c@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T210000
-DTEND;TZID=America/Chicago:20261122T020000
-SUMMARY:DoNskI ENT PRESENTS STAR POWER SATURDAYS THE HOTTEST DANCE PARTY IN
-  CHICAGO
-LOCATION:THE BAR 10 DOORS\, 1251 West Taylor Street\, Chicago
-DESCRIPTION:Get ready to light up the dance floor and party like a star thi
- s Saturday in Chicago - DoNskI ENT brings the heat!  Source: Eventbrite. T
- ickets/info: https://www.eventbrite.com/e/donski-ent-presents-star-power-s
- aturdays-the-hottest-dance-party-in-chicago-tickets-1983159793327
-URL:https://www.eventbrite.com/e/donski-ent-presents-star-power-saturdays-t
- he-hottest-dance-party-in-chicago-tickets-1983159793327
-END:VEVENT
-BEGIN:VEVENT
-UID:b61f303288d54260@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T210000
-DTEND;TZID=America/Chicago:20261122T020000
-SUMMARY:Pajamas\, MuuMuus & Margaritas Friendsgiving After Dark
-LOCATION:Bellagio 223\, 2229 South Michigan Avenue\, Chicago
-DESCRIPTION:Friendsgiving After Dark with pajamas\, muumuus\, margaritas\, 
- music\, food\, contests & good vibes at Bellagio 223. 21+ From $0.00.  Sou
- rce: Eventbrite. Tickets/info: https://www.eventbrite.com/e/pajamas-muumuu
- s-margaritas-friendsgiving-after-dark-tickets-2002959631175
-URL:https://www.eventbrite.com/e/pajamas-muumuus-margaritas-friendsgiving-a
- fter-dark-tickets-2002959631175
-END:VEVENT
-BEGIN:VEVENT
-UID:a4e71369bca51dab@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T210000
-DTEND;TZID=America/Chicago:20261122T030000
-SUMMARY:Remedy : Chicago Caribbean Night
-LOCATION:950 W Fulton Market\, 950 West Fulton Market\, Chicago
-DESCRIPTION:Chicago Caribbean Night playing the best in Reggae\,Dancehall\,
- Soca\, Afrobeat\,Hip Hop and more!  Source: Eventbrite. Tickets/info: http
- s://www.eventbrite.com/e/remedy-chicago-caribbean-night-tickets-2004094710
- 227
-URL:https://www.eventbrite.com/e/remedy-chicago-caribbean-night-tickets-200
- 4094710227
-END:VEVENT
-BEGIN:VEVENT
-UID:99e07afa8bfef6c0@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T210000
-DTEND;TZID=America/Chicago:20261122T020000
-SUMMARY:Saturday Nights at Renaissance Patio R&B Party
-LOCATION:The Renaissance Bronzville\, 4641 South King Drive\, Chicago
-DESCRIPTION:Every Saturday Night\, Let's have fun with Chicago best DJ's an
- d people.  The Patio party series will be lit with R&B and the music we lo
- ve.  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/saturd
- ay-nights-at-renaissance-patio-rb-party-tickets-1987094571354
-URL:https://www.eventbrite.com/e/saturday-nights-at-renaissance-patio-rb-pa
- rty-tickets-1987094571354
-END:VEVENT
-BEGIN:VEVENT
-UID:45a619c04dda0fe5@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T213000
-DTEND;TZID=America/Chicago:20261122T020000
-SUMMARY:Afrotón x The Whine Down : Global Rhythm
-LOCATION:Simone's\, 960 West 18th Street\, Chicago
-DESCRIPTION:One Night. Two Worlds. Infinite Vibes. From Dancehall\, Hip-Hop
-  & Juke to Reggaeton\, Afrobeats \, & Amapiano #  Source: Eventbrite. Tick
- ets/info: https://www.eventbrite.com/e/afroton-x-the-whine-down-global-rhy
- thm-tickets-2001001417104
-URL:https://www.eventbrite.com/e/afroton-x-the-whine-down-global-rhythm-tic
- kets-2001001417104
-END:VEVENT
-BEGIN:VEVENT
-UID:7949b9f8b053a6f3@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T220000
-DTEND;TZID=America/Chicago:20261122T030000
-SUMMARY:ALL THE FEELS: Chicago (R&B • Trap Soul • Slow Jams)
-LOCATION:BAR22\, 2244 South Michigan Avenue\, Chicago
-DESCRIPTION:Chicago’s Saturday night vibe. R&B\, Trap Soul & Slow Jams al
- l night at Bar 22. Good music\, good energy\, no skips. Perfect for large 
- parties!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/a
- ll-the-feels-chicago-rb-trap-soul-slow-jams-tickets-2003491335517
-URL:https://www.eventbrite.com/e/all-the-feels-chicago-rb-trap-soul-slow-ja
- ms-tickets-2003491335517
-END:VEVENT
-BEGIN:VEVENT
-UID:1780e8bcbf7363f0@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T220000
-DTEND;TZID=America/Chicago:20261122T020000
-SUMMARY:ALL THE FEELS: LOVE\, LIES & LATE NIGHTS (R&B • Heartbreak • To
- xic Hits)
-LOCATION:BAR22\, 2244 South Michigan Avenue\, Chicago
-DESCRIPTION:Chicago's ultimate R&B silent party. Love songs\, heartbreak an
- thems\, toxic classics\, and late-night vibes.  Source: Eventbrite. Ticket
- s/info: https://www.eventbrite.com/e/all-the-feels-love-lies-late-nights-r
- b-heartbreak-toxic-hits-tickets-2002108905632
-URL:https://www.eventbrite.com/e/all-the-feels-love-lies-late-nights-rb-hea
- rtbreak-toxic-hits-tickets-2002108905632
-END:VEVENT
-BEGIN:VEVENT
-UID:1ca7a46af76e6dc0@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T220000
-DTEND;TZID=America/Chicago:20261122T030000
-SUMMARY:HueNique Saturdays - Chicago's #1 Sold Out Hip Hop & R&B
-LOCATION:Hue Chicago\, 67 East Cermak Road\, Chicago
-DESCRIPTION:#1 Saturday Night Party with all the vibes\, Hip Hop \, R&B and
-  Afrobeats.  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/
- e/huenique-saturdays-chicagos-1-sold-out-hip-hop-rb-tickets-2004788762155
-URL:https://www.eventbrite.com/e/huenique-saturdays-chicagos-1-sold-out-hip
- -hop-rb-tickets-2004788762155
-END:VEVENT
-BEGIN:VEVENT
-UID:7031f2094f732897@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T220000
-DTEND;TZID=America/Chicago:20261122T030000
-SUMMARY:Soiree Saturdays @ Chalet: Vibes and Music
-LOCATION:Chalet\, 228 West Chicago Avenue\, Chicago
-DESCRIPTION:Come join us every Saturday at Chalet for a night filled with g
- ood vibes\, beautiful people\, and great music.  Source: Eventbrite. Ticke
- ts/info: https://www.eventbrite.com/e/soiree-saturdays-chalet-vibes-and-mu
- sic-tickets-2004721822938
-URL:https://www.eventbrite.com/e/soiree-saturdays-chalet-vibes-and-music-ti
- ckets-2004721822938
-END:VEVENT
-BEGIN:VEVENT
-UID:f30e3a9649aa6e72@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T220000
-DTEND;TZID=America/Chicago:20261122T020000
-SUMMARY:✨ R&B Saturdays: A Night of Soul & Vibes ✨
-LOCATION:BAR22\, 2244 South Michigan Avenue\, Chicago
-DESCRIPTION:Experience smooth R&B\, great vibes\, and unforgettable energy 
- this Saturday night music\, mingling\, and memories await. Drink & Food Sp
- ecials!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/rb
- -saturdays-a-night-of-soul-vibes-tickets-1979956727872
-URL:https://www.eventbrite.com/e/rb-saturdays-a-night-of-soul-vibes-tickets
- -1979956727872
-END:VEVENT
-BEGIN:VEVENT
-UID:f5528e53ed9752a8@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261121T230000
-DTEND;TZID=America/Chicago:20261122T050000
-SUMMARY:Afro Fusion Saturday : Afrobeats\, Hiphop\, Dancehall\, Soca
-LOCATION:Le Nocturne Chicago\, 4810 North Broadway\, Chicago
-DESCRIPTION:The Most Diverse International Party In Chicago  Source: Eventb
- rite. Tickets/info: https://www.eventbrite.com/e/afro-fusion-saturday-afro
- beats-hiphop-dancehall-soca-tickets-2003077015274
-URL:https://www.eventbrite.com/e/afro-fusion-saturday-afrobeats-hiphop-danc
- ehall-soca-tickets-2003077015274
-END:VEVENT
-BEGIN:VEVENT
-UID:33d004cf5df4c47f@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T120000
-DTEND;TZID=America/Chicago:20261122T170000
-SUMMARY:CHICAGO OFFICIAL R&B BRUNCH AND DAY PARTY SERIES!
-LOCATION:1612 W Division St\, 1612 West Division Street\, Chicago
-DESCRIPTION:SERVICING THE COMMUNITY WITH AN UPSCALE LUXURY BRUNCH EXPERIENC
- E FOR PROFESSIONALS!  Source: Eventbrite. Tickets/info: https://www.eventb
- rite.com/e/chicago-official-rb-brunch-and-day-party-series-tickets-1978160
- 895489
-URL:https://www.eventbrite.com/e/chicago-official-rb-brunch-and-day-party-s
- eries-tickets-1978160895489
-END:VEVENT
-BEGIN:VEVENT
-UID:3197b15849d39751@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T120000
-DTEND;TZID=America/Chicago:20261122T180000
-SUMMARY:Sip\, Sing & Brunch | R&B Sing-Along Day Party
-LOCATION:3420 W Roosevelt Rd\, 3420 West Roosevelt Road\, Chicago
-DESCRIPTION:Join us for an unforgettable Sunday of buffet-style brunch\, R&
- B sing-alongs\, complimentary open bar\, and day party vibes at Visions Ca
- fé!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/sip-s
- ing-brunch-rb-sing-along-day-party-tickets-2003934439854
-URL:https://www.eventbrite.com/e/sip-sing-brunch-rb-sing-along-day-party-ti
- ckets-2003934439854
-END:VEVENT
-BEGIN:VEVENT
-UID:2cdd969524aef2d9@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T140000
-DTEND;TZID=America/Chicago:20261122T180000
-SUMMARY:Grace and Grits: Gospel and R&B Brunch
-LOCATION:6500 S Carpenter St\, Chicago
-DESCRIPTION:The 12:48 Collective's Gospel and R&B brunch with live music an
- d DJ.  Source: EventNoire. Tickets/info: https://events.eventnoire.com/e/g
- race-and-grits
-URL:https://events.eventnoire.com/e/grace-and-grits
-END:VEVENT
-BEGIN:VEVENT
-UID:3f9da558ae9e8f94@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T140000
-DTEND;TZID=America/Chicago:20261122T220000
-SUMMARY:RHAS SUNDAYZ
-LOCATION:3109 W Irving Park Rd\, 3109 West Irving Park Road\, Chicago
-DESCRIPTION:Join us at Shattaz for an unforgettable day party experience fi
- lled with great food\, good energy\, and nonstop music.  Source: Eventbrit
- e. Tickets/info: https://www.eventbrite.com/e/rhas-sundayz-tickets-1985448
- 920167
-URL:https://www.eventbrite.com/e/rhas-sundayz-tickets-1985448920167
-END:VEVENT
-BEGIN:VEVENT
-UID:287eae6d6e5e3f1d@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T160000
-DTEND;TZID=America/Chicago:20261122T180000
-SUMMARY:90'S R&B Sing-Along +Plus Candle Making!
-LOCATION:3414 W Foster Ave\, 3414 West Foster Avenue\, Chicago
-DESCRIPTION:Groove to your favorite 90's R&B jams while getting crafty with
-  candle making!  Perfect for a girls' night out or a unique date night!  S
- ource: Eventbrite. Tickets/info: https://www.eventbrite.com/e/90s-rb-sing-
- along-plus-candle-making-tickets-1981387191427
-URL:https://www.eventbrite.com/e/90s-rb-sing-along-plus-candle-making-ticke
- ts-1981387191427
-END:VEVENT
-BEGIN:VEVENT
-UID:298930c0540feb20@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T170000
-DTEND;TZID=America/Chicago:20261122T210000
-SUMMARY:SAMPLES N SING-A-LONGS (MUSIC TRIVIA/GAME NIGHT) | Hosted By J-Rell
-LOCATION:Pitch & Pour Supper Club\, 1239 West Lake Street\, Chicago
-DESCRIPTION:Test Your Music Knowledge & Sing Your Heart Out At The Ultimate
-  Music Trivia Game Night! Hosted By J-Rell!  Source: Eventbrite. Tickets/i
- nfo: https://www.eventbrite.com/e/samples-n-sing-a-longs-music-triviagame-
- night-hosted-by-j-rell-tickets-2003665987907
-URL:https://www.eventbrite.com/e/samples-n-sing-a-longs-music-triviagame-ni
- ght-hosted-by-j-rell-tickets-2003665987907
-END:VEVENT
-BEGIN:VEVENT
-UID:d3d37e2eda7f009b@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T190000
-DTEND;TZID=America/Chicago:20261122T223000
-SUMMARY:Yung Gravy: The Joyrider Tour
-LOCATION:House of Blues Chicago\, 329 N Dearborn St\, Chicago
-DESCRIPTION:Hip hop concert.  Source: Discotech. Tickets/info: https://app.
- discotech.me/events/38264734-yung-gravy-the-joyrider-tour-at-house-of-blue
- s
-URL:https://app.discotech.me/events/38264734-yung-gravy-the-joyrider-tour-a
- t-house-of-blues
-END:VEVENT
-BEGIN:VEVENT
-UID:ccf05d5d7df90027@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
-DTSTART;TZID=America/Chicago:20261122T220000
-DTEND;TZID=America/Chicago:20261123T020000
-SUMMARY:Bevy on Sundays @ Joy District
-LOCATION:Joy District\, 112 West Hubbard Street\, Chicago
-DESCRIPTION:The BEST and longest-running Sunday party in Chicago just level
- ed up! We’ve relocated to Joy District to bring you a bigger & better!  
- Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/bevy-on-sun
- days-joy-district-tickets-1983171118200
-URL:https://www.eventbrite.com/e/bevy-on-sundays-joy-district-tickets-19831
- 71118200
-END:VEVENT
-BEGIN:VEVENT
 UID:1a224d90654d55ab@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261123T170000
 DTEND;TZID=America/Chicago:20261123T220000
 SUMMARY:The Monday Night Experience: Pour After Four Mondays\, Hosted by Bi
@@ -611,7 +42,7 @@ URL:https://www.eventbrite.com/e/the-monday-night-experience-pour-after-fou
 END:VEVENT
 BEGIN:VEVENT
 UID:ab33cb526fd516be@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261123T200000
 DTEND;TZID=America/Chicago:20261123T230000
 SUMMARY:Jorja Smith
@@ -622,8 +53,34 @@ URL:https://chicagoreader.com/music/concert-preview/jorja-smith-riviera-the
  atre/
 END:VEVENT
 BEGIN:VEVENT
+UID:dc754d7f7621f91d@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261123T200000
+DTEND;TZID=America/Chicago:20261124T020000
+SUMMARY:R&B Karaoke Mondays are Back @Bassline
+LOCATION:BASSLINE || 2239 - CHICAGO\, 2239 South Michigan Avenue\, Chicago
+DESCRIPTION:The Number #1 Monday Night R&B Karaoke Vibe in Chicago w/ a Hin
+ t of Turn up has Returned to Bassline. Powered by Hollywood Ditty & Friend
+ s  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/rb-karao
+ ke-mondays-are-back-bassline-tickets-2002963566947
+URL:https://www.eventbrite.com/e/rb-karaoke-mondays-are-back-bassline-ticke
+ ts-2002963566947
+END:VEVENT
+BEGIN:VEVENT
+UID:96d4853cfd138858@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261124T160000
+DTEND;TZID=America/Chicago:20261124T230000
+SUMMARY:R&B Sing a long
+LOCATION:YOURS CAFE & BISTRO\, 1115 South 5th Avenue\, Maywood
+DESCRIPTION:Sing your heart out and taco ’bout a Tuesday night you won’
+ t forget!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/
+ rb-sing-a-long-tickets-2002921769931
+URL:https://www.eventbrite.com/e/rb-sing-a-long-tickets-2002921769931
+END:VEVENT
+BEGIN:VEVENT
 UID:78b543fcde16ceda@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261124T193000
 DTEND;TZID=America/Chicago:20261124T223000
 SUMMARY:JoJo: The High Road - 20 Years Unplugged
@@ -633,8 +90,50 @@ DESCRIPTION:R&B/pop concert. Doors 6:30pm.  Source: Jam Productions. Ticket
 URL:https://www.jamusa.com/venues/park-west
 END:VEVENT
 BEGIN:VEVENT
+UID:c759b05a6c1f6550@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261124T200000
+DTEND;TZID=America/Chicago:20261125T003000
+SUMMARY:TACO BOUT TUESDAY: R&B KARAOKE + GAME NIGHT
+LOCATION:S2 Grills - Maywood\, 1001 Roosevelt Road\, Maywood
+DESCRIPTION:Looking for a mature night?!!  Get ready to enjoy some tacos\, 
+ good music\, drinks and your friends!  Source: Eventbrite. Tickets/info: h
+ ttps://www.eventbrite.com/e/taco-bout-tuesday-rb-karaoke-game-night-ticket
+ s-1999123025785
+URL:https://www.eventbrite.com/e/taco-bout-tuesday-rb-karaoke-game-night-ti
+ ckets-1999123025785
+END:VEVENT
+BEGIN:VEVENT
+UID:a9945db1524d4702@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261124T220000
+DTEND;TZID=America/Chicago:20261125T020000
+SUMMARY:DND - Tuesdays Are For Drake
+LOCATION:Bar Tabu\, 401 North Morgan Street\, Chicago
+DESCRIPTION:Join us every Tuesday night as we play Drake’s hits all night
+  long\, along with curated selections to keep the energy flowing.  Source:
+  Eventbrite. Tickets/info: https://www.eventbrite.com/e/dnd-tuesdays-are-f
+ or-drake-tickets-1999617202882
+URL:https://www.eventbrite.com/e/dnd-tuesdays-are-for-drake-tickets-1999617
+ 202882
+END:VEVENT
+BEGIN:VEVENT
+UID:33fb9af3cf7dadb0@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261124T230000
+DTEND;TZID=America/Chicago:20261125T020000
+SUMMARY:Baddies Block Party at Charlie's Chicago
+LOCATION:Charlie's Chicago\, 3726 N. Broadway St.\, Chicago
+DESCRIPTION:Reggaeton\, R&B\, hip hop and bachata house every Tuesday at 11
+  PM with Sapphire Feliciano & Persephone Brooklyn. Free RSVP. 21+.  Source
+ : Eventbrite. Tickets/info: https://www.eventbrite.com/e/baddies-block-par
+ ty-at-charlies-chicago-tickets-2003862604994
+URL:https://www.eventbrite.com/e/baddies-block-party-at-charlies-chicago-ti
+ ckets-2003862604994
+END:VEVENT
+BEGIN:VEVENT
 UID:6bf5b9c44c24780c@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261125T180000
 DTEND;TZID=America/Chicago:20261126T000000
 SUMMARY:DeeJayVu Black Wednesday at Vu Rooftop
@@ -647,7 +146,7 @@ URL:https://www.eventbrite.com/e/deejayvu-black-wednesday-at-vu-rooftop-tic
 END:VEVENT
 BEGIN:VEVENT
 UID:1f4971e21d45efb2@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261125T190000
 DTEND;TZID=America/Chicago:20261125T230000
 SUMMARY:WORD GOT OUT
@@ -659,8 +158,22 @@ DESCRIPTION:Word Got Out Open Mic. Every last Wednesday\, 7–11 PM. Perfor
 URL:https://www.eventbrite.com/e/word-got-out-tickets-1996879132239
 END:VEVENT
 BEGIN:VEVENT
+UID:3e3667e769068339@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261125T200000
+DTEND;TZID=America/Chicago:20261126T020000
+SUMMARY:Live On Ogden Black Wednesday ( R&B Live Band Karaoke )
+LOCATION:Kashmir\, 160 North Ogden Avenue\, Chicago
+DESCRIPTION:Chicago\, pull up to Kashmir for a Live Band Karaoke R&B night 
+ with NDA. Grab the mic\, sing your favorite R&B hits\, and rock the stage!
+   Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/live-on-o
+ gden-black-wednesday-rb-live-band-karaoke-tickets-2004966136687
+URL:https://www.eventbrite.com/e/live-on-ogden-black-wednesday-rb-live-band
+ -karaoke-tickets-2004966136687
+END:VEVENT
+BEGIN:VEVENT
 UID:ceebc3313deea5ac@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261125T210000
 DTEND;TZID=America/Chicago:20261126T040000
 SUMMARY:Black Wednesday: 3rd Annual All-Black Attire @ RocBar  9PM-4AM
@@ -673,8 +186,22 @@ URL:https://www.eventbrite.com/e/black-wednesday-3rd-annual-all-black-attir
  e-rocbar-9pm-4am-tickets-2002312640007
 END:VEVENT
 BEGIN:VEVENT
+UID:ab554abe6717cb2f@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261126T203000
+DTEND;TZID=America/Chicago:20261127T000000
+SUMMARY:R&B Karaoke Experience featuring LIVE BAND
+LOCATION:Vibez Cocktail Lounge\, 11 N 5th Ave\, Maywood
+DESCRIPTION:Get ready to belt out your favorite R&B jams with a live band b
+ acking you up all night!  Source: Eventbrite. Tickets/info: https://www.ev
+ entbrite.com/e/rb-karaoke-experience-featuring-live-band-tickets-200420626
+ 4890
+URL:https://www.eventbrite.com/e/rb-karaoke-experience-featuring-live-band-
+ tickets-2004206264890
+END:VEVENT
+BEGIN:VEVENT
 UID:6e5069d61cb65644@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261126T220000
 DTEND;TZID=America/Chicago:20261127T040000
 SUMMARY:KO’s Playlist: Afrobeats and R&B Thanksgiving Day at Galeria 10PM
@@ -688,8 +215,48 @@ URL:https://www.eventbrite.com/e/kos-playlist-afrobeats-and-rb-thanksgiving
  -day-at-galeria-10pm-4am-tickets-2003032972541
 END:VEVENT
 BEGIN:VEVENT
+UID:5f643ac0a2b1f9b7@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261126T220000
+DTEND;TZID=America/Chicago:20261127T040000
+SUMMARY:Status Thursdays
+LOCATION:Icon Bar & Lounge\, 2247 North Lincoln Avenue\, Chicago
+DESCRIPTION:Chicago’s hottest Thursday night is here—where Latin heat m
+ eets hip-hop energy every single week. Join us at Icon Bar and Lounge  Sou
+ rce: Eventbrite. Tickets/info: https://www.eventbrite.com/e/status-thursda
+ ys-tickets-2003413705323
+URL:https://www.eventbrite.com/e/status-thursdays-tickets-2003413705323
+END:VEVENT
+BEGIN:VEVENT
+UID:dca30a4607c6e93b@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261127T180000
+DTEND;TZID=America/Chicago:20261127T210000
+SUMMARY:R&B/ Soul Night presented by The Stony Island Arts Bank
+LOCATION:Stony Island Arts Bank\, 6760 South Stony Island Avenue\, Chicago
+DESCRIPTION:Join us for a night of art\, drinks and\, connection.  Source: 
+ Eventbrite. Tickets/info: https://www.eventbrite.com/e/rb-soul-night-prese
+ nted-by-the-stony-island-arts-bank-tickets-2004851382454
+URL:https://www.eventbrite.com/e/rb-soul-night-presented-by-the-stony-islan
+ d-arts-bank-tickets-2004851382454
+END:VEVENT
+BEGIN:VEVENT
+UID:442cd176eaa70550@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261127T180000
+DTEND;TZID=America/Chicago:20261127T193000
+SUMMARY:UNPLUGGED R&B KARAOKE EXPERIENCE
+LOCATION:VIEW Restaurant & Experience\, 1701 Roosevelt Road\, Broadview
+DESCRIPTION:Get ready to vibe and sing your heart out with some smooth R&B 
+ tunes in a chill\, unplugged setting.  Source: Eventbrite. Tickets/info: h
+ ttps://www.eventbrite.com/e/unplugged-rb-karaoke-experience-tickets-199181
+ 7469670
+URL:https://www.eventbrite.com/e/unplugged-rb-karaoke-experience-tickets-19
+ 91817469670
+END:VEVENT
+BEGIN:VEVENT
 UID:f55a13ba3566eb89@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261127T190000
 DTEND;TZID=America/Chicago:20261127T230000
 SUMMARY:The Juke Joint Presents: The Eras of Culture
@@ -700,8 +267,37 @@ DESCRIPTION:Themed night of 70s-2000s Black music and style\, with 90s/2000
 URL:https://events.eventnoire.com/e/jukejointpresent/tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:bb98cc1cf8393ad4@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261127T200000
+DTEND;TZID=America/Chicago:20261127T230000
+SUMMARY:CHICAGO RNB SING ALONG PAINT & SIP “ERYKAH BADU” vs. “LAURYN 
+ HILL”
+LOCATION:Sonder Exchange\, 6534 South Ashland Avenue\, Chicago
+DESCRIPTION:CHICAGO 35+… WE OUTSIDE BLACK FRIDAY!  Badu vs. Lauryn! Grab 
+ your crew\, pour up & sing like you wrote it!  Source: Eventbrite. Tickets
+ /info: https://www.eventbrite.com/e/chicago-rnb-sing-along-paint-sip-eryka
+ h-badu-vs-lauryn-hill-tickets-2003838024473
+URL:https://www.eventbrite.com/e/chicago-rnb-sing-along-paint-sip-erykah-ba
+ du-vs-lauryn-hill-tickets-2003838024473
+END:VEVENT
+BEGIN:VEVENT
+UID:64b687772eaf41d5@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261127T210000
+DTEND;TZID=America/Chicago:20261128T020000
+SUMMARY:Poetic JustUS : "Free Poetry Jam + After Party"
+LOCATION:952 W Fulton Market\, 952 West Fulton Market\, Chicago
+DESCRIPTION:Not the traditional R&B songs you hear often. We are playing th
+ ose cuts you forgot about.  Source: Eventbrite. Tickets/info: https://www.
+ eventbrite.com/e/poetic-justus-free-poetry-jam-after-party-tickets-2004873
+ 697198
+URL:https://www.eventbrite.com/e/poetic-justus-free-poetry-jam-after-party-
+ tickets-2004873697198
+END:VEVENT
+BEGIN:VEVENT
 UID:64aafdb4d9f02188@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261127T210000
 DTEND;TZID=America/Chicago:20261128T023000
 SUMMARY:Suite Noir: Black. Friday Night
@@ -711,8 +307,38 @@ DESCRIPTION:Upscale monochrome-dress Friday night party.  Source: EventNoir
 URL:https://events.eventnoire.com/e/suitenoir/tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:d5c3378f9b30b56b@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261127T220000
+DTEND;TZID=America/Chicago:20261128T040000
+SUMMARY:Fridays at ICON/ w guest appearance Karlie Redd
+LOCATION:Icon Bar & Lounge\, 2247 North Lincoln Avenue\, Chicago
+DESCRIPTION:Start your weekend the right way at icon bar and lounge )—the
+  premier Friday night destination at Icon Bar & Lounge.  Source: Eventbrit
+ e. Tickets/info: https://www.eventbrite.com/e/fridays-at-icon-w-guest-appe
+ arance-karlie-redd-tickets-2004314760403
+URL:https://www.eventbrite.com/e/fridays-at-icon-w-guest-appearance-karlie-
+ redd-tickets-2004314760403
+END:VEVENT
+BEGIN:VEVENT
+UID:b483e36df1bd5766@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261127T220000
+DTEND;TZID=America/Chicago:20261128T020000
+SUMMARY:Function Fridays@ ERA Social Club  | DJs\, Vibes\, & Nightlife Ener
+ gy
+LOCATION:Era Social Club\, 416 South Clark Street\, Chicago
+DESCRIPTION:No more asking “What’s the move?” it’s here. Good music
+ \, even better people\, and zero cover with RSVP . Come solo or bring your
+  crew!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/fun
+ ction-fridays-era-social-club-djs-vibes-nightlife-energy-tickets-199182170
+ 2330
+URL:https://www.eventbrite.com/e/function-fridays-era-social-club-djs-vibes
+ -nightlife-energy-tickets-1991821702330
+END:VEVENT
+BEGIN:VEVENT
 UID:f4d9e3b4d103dce3@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261127T220000
 DTEND;TZID=America/Chicago:20261128T020000
 SUMMARY:SILENT PARTY CHICAGO | R&B\, Hip-Hop & Twerk Every Last Friday
@@ -727,7 +353,7 @@ URL:https://www.eventbrite.com/e/silent-party-chicago-rb-hip-hop-twerk-ever
 END:VEVENT
 BEGIN:VEVENT
 UID:f89e3b55f37b170c@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261127T220000
 DTEND;TZID=America/Chicago:20261128T020000
 SUMMARY:XOXO: (R&B\, Twerk\, Slow Jamz)
@@ -741,7 +367,7 @@ URL:https://www.eventbrite.com/e/xoxo-rb-twerk-slow-jamz-tickets-2004805910
 END:VEVENT
 BEGIN:VEVENT
 UID:af8555a7322f3211@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261127T220000
 DTEND;TZID=America/Chicago:20261128T020000
 SUMMARY:XOXO: THE REMIX (R&B • Hip-Hop • Remixes & Classics)
@@ -754,8 +380,22 @@ URL:https://www.eventbrite.com/e/xoxo-the-remix-rb-hip-hop-remixes-classics
  -tickets-2004001270747
 END:VEVENT
 BEGIN:VEVENT
+UID:68f8a1f586fbe2c8@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261127T223000
+DTEND;TZID=America/Chicago:20261128T020000
+SUMMARY:Black Friday Party Juke Vs Hip Hop (Chicago) Hubbard Inn
+LOCATION:Hubbard Inn\, 110 West Hubbard Street\, Chicago
+DESCRIPTION:Hottest Party in Chicago! Multiple Floor Event!\nBlack Friday N
+ ight Black Attire strongly suggested! From $13.64.  Source: Eventbrite. Ti
+ ckets/info: https://www.eventbrite.com/e/black-friday-party-juke-vs-hip-ho
+ p-chicago-hubbard-inn-tickets-2004985989066
+URL:https://www.eventbrite.com/e/black-friday-party-juke-vs-hip-hop-chicago
+ -hubbard-inn-tickets-2004985989066
+END:VEVENT
+BEGIN:VEVENT
 UID:426c8cf19554a1b8@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261127T230000
 DTEND;TZID=America/Chicago:20261128T040000
 SUMMARY:Afro Fusion Friday : Afrobeats\, Hiphop\, Dancehall\, Soca
@@ -768,7 +408,7 @@ URL:https://www.eventbrite.com/e/afro-fusion-friday-afrobeats-hiphop-danceh
 END:VEVENT
 BEGIN:VEVENT
 UID:6c5babecada012b4@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T183000
 DTEND;TZID=America/Chicago:20261128T230000
 SUMMARY:"POST WORTHY" FEAT  LOOZE CANNON  AKA BIG MICHAEL MICHAEL"+  VIRAL 
@@ -783,7 +423,7 @@ URL:https://www.eventbrite.com/e/post-worthy-feat-looze-cannon-aka-big-mich
 END:VEVENT
 BEGIN:VEVENT
 UID:51f37ba988a529b1@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T183000
 DTEND;TZID=America/Chicago:20261128T223000
 SUMMARY:Gnarls Barkley with Duckwrth
@@ -796,7 +436,7 @@ URL:https://www.livenation.com/event/vv178Z_3GkHNxTiS/gnarls-barkley-to-who
 END:VEVENT
 BEGIN:VEVENT
 UID:19ec250547a1fe29@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T183000
 DTEND;TZID=America/Chicago:20261128T220000
 SUMMARY:Soulful Holiday Lights Trolley  Celebrating  Motown\, R& B & House
@@ -810,7 +450,7 @@ URL:https://www.eventbrite.com/e/soulful-holiday-lights-trolley-celebrating
 END:VEVENT
 BEGIN:VEVENT
 UID:016734fa3b0cd9bb@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T184500
 DTEND;TZID=America/Chicago:20261128T230000
 SUMMARY:RNB Friendsgiving + Fireworks Indoor Yacht Party (3 Levels) Chicago
@@ -818,15 +458,15 @@ LOCATION:Burnham Harbor S Dock - Anita Dee 2 - Temporary Docking Area\, 155
  9 S Lakeshore drive\, Chicago
 DESCRIPTION:Grab your Crew & Head to the yacht for the hottest party in the
   city on a three level indoor/outdoor yacht! FT: Special Guest DJ Nehpets 
-  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/rnb-friend
- sgiving-fireworks-indoor-yacht-party-3-levels-chicago-tickets-199938931927
- 6
+ From $55.20.  Source: Eventbrite. Tickets/info: https://www.eventbrite.com
+ /e/rnb-friendsgiving-fireworks-indoor-yacht-party-3-levels-chicago-tickets
+ -1999389319276
 URL:https://www.eventbrite.com/e/rnb-friendsgiving-fireworks-indoor-yacht-p
  arty-3-levels-chicago-tickets-1999389319276
 END:VEVENT
 BEGIN:VEVENT
 UID:9c3b83c2a7e37a6d@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T184500
 DTEND;TZID=America/Chicago:20261128T230000
 SUMMARY:RNB Friendsgiving Indoor Yacht Party (3 Levels) Chicago
@@ -841,7 +481,7 @@ URL:https://www.eventbrite.com/e/rnb-friendsgiving-indoor-yacht-party-3-lev
 END:VEVENT
 BEGIN:VEVENT
 UID:7f21fdf682e447c8@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T190000
 DTEND;TZID=America/Chicago:20261128T230000
 SUMMARY:2Dead Boyz x The Underachievers
@@ -853,7 +493,7 @@ URL:https://www.avondalemusichall.com/events/2dead-boyz-x-the-underachiever
 END:VEVENT
 BEGIN:VEVENT
 UID:fe9df1741d140a7e@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T200000
 DTEND;TZID=America/Chicago:20261129T010000
 SUMMARY:A Night OFF: R&B Soiree  (Art Exhibition)
@@ -867,7 +507,7 @@ URL:https://www.eventbrite.com/e/a-night-off-rb-soiree-art-exhibition-ticke
 END:VEVENT
 BEGIN:VEVENT
 UID:1d51bc32353aa3cd@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T200000
 DTEND;TZID=America/Chicago:20261129T020000
 SUMMARY:All Black R&B Lemon Drop fest
@@ -880,8 +520,104 @@ URL:https://www.eventbrite.com/e/all-black-rb-lemon-drop-fest-tickets-20029
  78451467
 END:VEVENT
 BEGIN:VEVENT
+UID:c168f4a37f449f16@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T200000
+DTEND;TZID=America/Chicago:20261129T020000
+SUMMARY:SIGNATURE SATURDAYS
+LOCATION:Mikes Place Sports Bar & Grill\, 6319 Roosevelt Road\, Berwyn
+DESCRIPTION:SIGNATURE SATURDAYS @ MIKES PLACE! 7P-12A!  Source: Eventbrite.
+  Tickets/info: https://www.eventbrite.com/e/signature-saturdays-tickets-16
+ 77102943049
+URL:https://www.eventbrite.com/e/signature-saturdays-tickets-1677102943049
+END:VEVENT
+BEGIN:VEVENT
+UID:20351283bf810fac@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T210000
+DTEND;TZID=America/Chicago:20261129T020000
+SUMMARY:DoNskI ENT PRESENTS STAR POWER SATURDAYS THE HOTTEST DANCE PARTY IN
+  CHICAGO
+LOCATION:THE BAR 10 DOORS\, 1251 West Taylor Street\, Chicago
+DESCRIPTION:Get ready to light up the dance floor and party like a star thi
+ s Saturday in Chicago - DoNskI ENT brings the heat!  Source: Eventbrite. T
+ ickets/info: https://www.eventbrite.com/e/donski-ent-presents-star-power-s
+ aturdays-the-hottest-dance-party-in-chicago-tickets-1983159794330
+URL:https://www.eventbrite.com/e/donski-ent-presents-star-power-saturdays-t
+ he-hottest-dance-party-in-chicago-tickets-1983159794330
+END:VEVENT
+BEGIN:VEVENT
+UID:e07178040bf8cb6e@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T210000
+DTEND;TZID=America/Chicago:20261129T020000
+SUMMARY:MOOD SATURDAY'S
+LOCATION:etc.\, 404 South Wells Street\, Chicago
+DESCRIPTION:Late Nights. Right Mood.  Every Saturday at ETC. R&B vibes\, fe
+ atured artists\, handcrafted cocktails & high fashion. 9PM–2AM.  Source:
+  Eventbrite. Tickets/info: https://www.eventbrite.com/e/mood-saturdays-tic
+ kets-2004623481797
+URL:https://www.eventbrite.com/e/mood-saturdays-tickets-2004623481797
+END:VEVENT
+BEGIN:VEVENT
+UID:76e105003b2dd747@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T210000
+DTEND;TZID=America/Chicago:20261129T020000
+SUMMARY:Saturday Nights at Renaissance Patio R&B Party
+LOCATION:The Renaissance Bronzville\, 4641 South King Drive\, Chicago
+DESCRIPTION:Every Saturday Night\, Let's have fun with Chicago best DJ's an
+ d people.  The Patio party series will be lit with R&B and the music we lo
+ ve.  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/saturd
+ ay-nights-at-renaissance-patio-rb-party-tickets-1987094572357
+URL:https://www.eventbrite.com/e/saturday-nights-at-renaissance-patio-rb-pa
+ rty-tickets-1987094572357
+END:VEVENT
+BEGIN:VEVENT
+UID:42697d91c1654b8f@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T220000
+DTEND;TZID=America/Chicago:20261129T030000
+SUMMARY:ALL THE FEELS: Chicago (R&B • Trap Soul • Slow Jams)
+LOCATION:BAR22\, 2244 South Michigan Avenue\, Chicago
+DESCRIPTION:Chicago’s Saturday night vibe. R&B\, Trap Soul & Slow Jams al
+ l night at Bar 22. Good music\, good energy\, no skips. Perfect for large 
+ parties!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/a
+ ll-the-feels-chicago-rb-trap-soul-slow-jams-tickets-2003491336520
+URL:https://www.eventbrite.com/e/all-the-feels-chicago-rb-trap-soul-slow-ja
+ ms-tickets-2003491336520
+END:VEVENT
+BEGIN:VEVENT
+UID:2c02d5e0383fe8cc@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T220000
+DTEND;TZID=America/Chicago:20261129T020000
+SUMMARY:ALL THE FEELS: LOVE\, LIES & LATE NIGHTS (R&B • Heartbreak • To
+ xic Hits)
+LOCATION:BAR22\, 2244 South Michigan Avenue\, Chicago
+DESCRIPTION:Chicago's ultimate R&B silent party. Love songs\, heartbreak an
+ thems\, toxic classics\, and late-night vibes.  Source: Eventbrite. Ticket
+ s/info: https://www.eventbrite.com/e/all-the-feels-love-lies-late-nights-r
+ b-heartbreak-toxic-hits-tickets-2004038609428
+URL:https://www.eventbrite.com/e/all-the-feels-love-lies-late-nights-rb-hea
+ rtbreak-toxic-hits-tickets-2004038609428
+END:VEVENT
+BEGIN:VEVENT
+UID:6a2adc7835a9c3b3@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T220000
+DTEND;TZID=America/Chicago:20261129T030000
+SUMMARY:HueNique Saturdays - Chicago's #1 Sold Out Hip Hop & R&B
+LOCATION:Hue Chicago\, 67 East Cermak Road\, Chicago
+DESCRIPTION:#1 Saturday Night Party with all the vibes\, Hip Hop \, R&B and
+  Afrobeats.  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/
+ e/huenique-saturdays-chicagos-1-sold-out-hip-hop-rb-tickets-2004788763158
+URL:https://www.eventbrite.com/e/huenique-saturdays-chicagos-1-sold-out-hip
+ -hop-rb-tickets-2004788763158
+END:VEVENT
+BEGIN:VEVENT
 UID:65b4413486abf4d5@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T220000
 DTEND;TZID=America/Chicago:20261129T020000
 SUMMARY:SILENT "LOVERS & FRIENDS" CHICAGO (R&B\, Twerk & Slow Jams)
@@ -896,7 +632,7 @@ URL:https://www.eventbrite.com/e/silent-lovers-friends-chicago-rb-twerk-slo
 END:VEVENT
 BEGIN:VEVENT
 UID:cac004afc71539e5@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261128T220000
 DTEND;TZID=America/Chicago:20261129T020000
 SUMMARY:SILENT PARTY CHICAGO "HOL' ON LEMME GET IT" (Trap\, Twerk\, Ratchet
@@ -912,8 +648,104 @@ URL:https://www.eventbrite.com/e/silent-party-chicago-hol-on-lemme-get-it-t
  rap-twerk-ratchet-anthems-tickets-2004000723109
 END:VEVENT
 BEGIN:VEVENT
+UID:2b36df8b471ebdf9@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T220000
+DTEND;TZID=America/Chicago:20261129T030000
+SUMMARY:Soiree Saturdays @ Chalet: Vibes and Music
+LOCATION:Chalet\, 228 West Chicago Avenue\, Chicago
+DESCRIPTION:Come join us every Saturday at Chalet for a night filled with g
+ ood vibes\, beautiful people\, and great music.  Source: Eventbrite. Ticke
+ ts/info: https://www.eventbrite.com/e/soiree-saturdays-chalet-vibes-and-mu
+ sic-tickets-2004721823941
+URL:https://www.eventbrite.com/e/soiree-saturdays-chalet-vibes-and-music-ti
+ ckets-2004721823941
+END:VEVENT
+BEGIN:VEVENT
+UID:5f023ba0ff53cdc4@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T220000
+DTEND;TZID=America/Chicago:20261129T020000
+SUMMARY:Thanksgiving Weekend Blackout Saturday
+LOCATION:Sinclair\, 17 N Wabash\, Chicago
+DESCRIPTION:Hip hop & Rnb \, Sexy & Fly Crowd  Source: Eventbrite. Tickets/
+ info: https://www.eventbrite.com/e/thanksgiving-weekend-blackout-saturday-
+ tickets-2004429385249
+URL:https://www.eventbrite.com/e/thanksgiving-weekend-blackout-saturday-tic
+ kets-2004429385249
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e59115f4f878be@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T220000
+DTEND;TZID=America/Chicago:20261129T020000
+SUMMARY:✨ R&B Saturdays: A Night of Soul & Vibes ✨
+LOCATION:BAR22\, 2244 South Michigan Avenue\, Chicago
+DESCRIPTION:Experience smooth R&B\, great vibes\, and unforgettable energy 
+ this Saturday night music\, mingling\, and memories await. Drink & Food Sp
+ ecials!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/rb
+ -saturdays-a-night-of-soul-vibes-tickets-1979956734893
+URL:https://www.eventbrite.com/e/rb-saturdays-a-night-of-soul-vibes-tickets
+ -1979956734893
+END:VEVENT
+BEGIN:VEVENT
+UID:559f41c0e8f87a8a@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261128T230000
+DTEND;TZID=America/Chicago:20261129T050000
+SUMMARY:Afro Fusion Saturday : Afrobeats\, Hiphop\, Dancehall\, Soca
+LOCATION:Le Nocturne Chicago\, 4810 North Broadway\, Chicago
+DESCRIPTION:The Most Diverse International Party In Chicago  Source: Eventb
+ rite. Tickets/info: https://www.eventbrite.com/e/afro-fusion-saturday-afro
+ beats-hiphop-dancehall-soca-tickets-2003076367336
+URL:https://www.eventbrite.com/e/afro-fusion-saturday-afrobeats-hiphop-danc
+ ehall-soca-tickets-2003076367336
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2368eeae0421f1@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261129T120000
+DTEND;TZID=America/Chicago:20261129T170000
+SUMMARY:CHICAGO OFFICIAL R&B BRUNCH AND DAY PARTY SERIES!
+LOCATION:1612 W Division St\, 1612 West Division Street\, Chicago
+DESCRIPTION:SERVICING THE COMMUNITY WITH AN UPSCALE LUXURY BRUNCH EXPERIENC
+ E FOR PROFESSIONALS!  Source: Eventbrite. Tickets/info: https://www.eventb
+ rite.com/e/chicago-official-rb-brunch-and-day-party-series-tickets-1978160
+ 896492
+URL:https://www.eventbrite.com/e/chicago-official-rb-brunch-and-day-party-s
+ eries-tickets-1978160896492
+END:VEVENT
+BEGIN:VEVENT
+UID:276be40c8c5b1c9d@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261129T120000
+DTEND;TZID=America/Chicago:20261129T180000
+SUMMARY:Sip\, Sing & Brunch | R&B Sing-Along Day Party
+LOCATION:3420 W Roosevelt Rd\, 3420 West Roosevelt Road\, Chicago
+DESCRIPTION:Join us for an unforgettable Sunday of buffet-style brunch\, R&
+ B sing-alongs\, complimentary open bar\, and day party vibes at Visions Ca
+ fé!  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/sip-s
+ ing-brunch-rb-sing-along-day-party-tickets-2003934440857
+URL:https://www.eventbrite.com/e/sip-sing-brunch-rb-sing-along-day-party-ti
+ ckets-2003934440857
+END:VEVENT
+BEGIN:VEVENT
+UID:3498ec0709e4d515@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261129T150000
+DTEND;TZID=America/Chicago:20261129T200000
+SUMMARY:Sunday  Funday Day Party @ POINT & FEATHER 11/29
+LOCATION:Point & Feather\, 113 West Hubbard Street\, Chicago
+DESCRIPTION:Join us for Sunday Funday at Point & Feather on November 29\, 2
+ 026\, from 3–8 PM. Enjoy an afternoon of Afrobeats\, Amapiano\, R&B\, Da
+ ncehall\, a  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/
+ e/sunday-funday-day-party-point-feather-1129-tickets-2003209489508
+URL:https://www.eventbrite.com/e/sunday-funday-day-party-point-feather-1129
+ -tickets-2003209489508
+END:VEVENT
+BEGIN:VEVENT
 UID:e506ec6d253f3939@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261129T150000
 DTEND;TZID=America/Chicago:20261129T200000
 SUMMARY:Sunday  Funday: Afrobeats\, R&B & Amapiano Day Party @ POINT & FEAT
@@ -928,8 +760,22 @@ URL:https://www.eventbrite.com/e/sunday-funday-afrobeats-rb-amapiano-day-pa
  rty-point-feather-1129-tickets-2003209489508
 END:VEVENT
 BEGIN:VEVENT
+UID:92131c69edf3aa26@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261129T160000
+DTEND;TZID=America/Chicago:20261129T180000
+SUMMARY:90'S R&B Sing-Along +Plus Candle Making!
+LOCATION:3414 W Foster Ave\, 3414 West Foster Avenue\, Chicago
+DESCRIPTION:Groove to your favorite 90's R&B jams while getting crafty with
+  candle making!  Perfect for a girls' night out or a unique date night!  S
+ ource: Eventbrite. Tickets/info: https://www.eventbrite.com/e/90s-rb-sing-
+ along-plus-candle-making-tickets-1981387193433
+URL:https://www.eventbrite.com/e/90s-rb-sing-along-plus-candle-making-ticke
+ ts-1981387193433
+END:VEVENT
+BEGIN:VEVENT
 UID:dc6ba2dfc4cbc9a7@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261129T160000
 DTEND;TZID=America/Chicago:20261129T210000
 SUMMARY:R&B SUNDAYS: SUNDAY FUNDAY at BAR 22 (R&B • Vibes • Drinks)
@@ -943,7 +789,7 @@ URL:https://www.eventbrite.com/e/rb-sundays-sunday-funday-at-bar-22-rb-vibe
 END:VEVENT
 BEGIN:VEVENT
 UID:0bcebb140eeeed47@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261129T160000
 DTEND;TZID=America/Chicago:20261129T210000
 SUMMARY:R&B Sunday’s
@@ -954,8 +800,22 @@ DESCRIPTION:Chill out with smooth grooves and soulful vibes that’ll keep
 URL:https://www.eventbrite.com/e/rb-sundays-tickets-2003156781858
 END:VEVENT
 BEGIN:VEVENT
+UID:29307e3f02c07ccf@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261129T170000
+DTEND;TZID=America/Chicago:20261129T220000
+SUMMARY:THE BLACK & WHITE R&B DAY PARTY - SEAN MAC & JOE GLOBAL
+LOCATION:CHEMISTRY CHICAGO\, 5121 S HARPER AVE\, CHICAGO
+DESCRIPTION:THE BLACK & WHITE R&B DAY PARTY - SEAN MAC & JOE GLOBAL! THANKS
+ GIVING WEEKEND1 FOR THE SAGITTARIUS! JOE GLOBAL OFFICIAL BIRTHDAY PARTY  S
+ ource: Eventbrite. Tickets/info: https://www.eventbrite.com/e/the-black-wh
+ ite-rb-day-party-sean-mac-joe-global-tickets-2005050595305
+URL:https://www.eventbrite.com/e/the-black-white-rb-day-party-sean-mac-joe-
+ global-tickets-2005050595305
+END:VEVENT
+BEGIN:VEVENT
 UID:689ee4b694333f40@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261130T200000
 DTEND;TZID=America/Chicago:20261130T230000
 SUMMARY:Brent Faiyaz Live: I Spent The Night With Brent Faiyaz
@@ -968,7 +828,7 @@ URL:https://www.livenation.com/event/vv1A7ZkfwGkda-Klv/brent-faiyaz-live-i-
 END:VEVENT
 BEGIN:VEVENT
 UID:d9721e1cb9025d8a@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261203T200000
 DTEND;TZID=America/Chicago:20261203T230000
 SUMMARY:6LACK: The 10 Years of 6LACK Tour
@@ -980,7 +840,7 @@ URL:https://www.choosechicago.com/event/6lack-the-10-years-of-6lack-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:06f0b9fb1be58f17@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261204T190000
 DTEND;TZID=America/Chicago:20261204T230000
 SUMMARY:HERSUITE HQ Presents: R&B Sing Along | Paint | Game Night
@@ -994,7 +854,7 @@ URL:https://www.eventbrite.com/e/hersuite-hq-presents-rb-sing-along-paint-g
 END:VEVENT
 BEGIN:VEVENT
 UID:1ce3b21d7aad5d2e@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261204T200000
 DTEND;TZID=America/Chicago:20261204T233000
 SUMMARY:Jay-Z Night at Visions 42
@@ -1007,7 +867,7 @@ URL:https://www.eventbrite.com/e/jay-z-night-at-visions-42-tickets-20046337
 END:VEVENT
 BEGIN:VEVENT
 UID:a63eca38db88473e@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261204T210000
 DTEND;TZID=America/Chicago:20261205T020000
 SUMMARY:Hip-Hop vs R&B Happy Hour Ladies Night + Adult Game Night!
@@ -1021,8 +881,22 @@ URL:https://www.eventbrite.com/e/hip-hop-vs-rb-happy-hour-ladies-night-adul
  t-game-night-tickets-1978937135243
 END:VEVENT
 BEGIN:VEVENT
+UID:73dc1c85ded9f9f2@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261204T210000
+DTEND;TZID=America/Chicago:20261204T230000
+SUMMARY:Juke Vs Hip Hop (Chicago) Hubbard Inn
+LOCATION:Hubbard Inn\, 110 West Hubbard Street\, Chicago
+DESCRIPTION:Hottest Party in Chicago! Multiple Floor Event!\nFriday Night 
+ • Club Attire strongly suggested!  Source: Eventbrite. Tickets/info: htt
+ ps://www.eventbrite.com/e/juke-vs-hip-hop-chicago-hubbard-inn-tickets-2005
+ 210832579
+URL:https://www.eventbrite.com/e/juke-vs-hip-hop-chicago-hubbard-inn-ticket
+ s-2005210832579
+END:VEVENT
+BEGIN:VEVENT
 UID:fb7b627b30c972de@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261204T220000
 DTEND;TZID=America/Chicago:20261205T020000
 SUMMARY:Keep It Y2K with Chaco Beats
@@ -1035,7 +909,7 @@ URL:https://www.eventbrite.com/e/keep-it-y2k-with-chaco-beats-tickets-19896
 END:VEVENT
 BEGIN:VEVENT
 UID:96a03057c723bee9@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261204T220000
 DTEND;TZID=America/Chicago:20261205T020000
 SUMMARY:SILENT PARTY CHICAGO | Trap\, R&B\, Twerk (Every 1st Friday)
@@ -1049,7 +923,7 @@ URL:https://www.eventbrite.com/e/silent-party-chicago-trap-rb-twerk-every-1
 END:VEVENT
 BEGIN:VEVENT
 UID:fbb084a00054082e@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261205T100000
 DTEND;TZID=America/Chicago:20261205T140000
 SUMMARY:10AM R&B: Breakfast\, Mimosas & Singalongs | Chicago Debut
@@ -1064,7 +938,7 @@ URL:https://www.eventbrite.com/e/10am-rb-breakfast-mimosas-singalongs-chica
 END:VEVENT
 BEGIN:VEVENT
 UID:3b5eea53f754e7e6@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261205T140000
 DTEND;TZID=America/Chicago:20261205T200000
 SUMMARY:The Ultimate Sagittarius Bi-Level Day Party
@@ -1078,7 +952,7 @@ URL:https://www.eventbrite.com/e/the-ultimate-sagittarius-bi-level-day-part
 END:VEVENT
 BEGIN:VEVENT
 UID:be7a445acd9c35a2@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261205T190000
 DTEND;TZID=America/Chicago:20261205T210000
 SUMMARY:“P.O.P” LISTENING PARTY
@@ -1090,7 +964,7 @@ URL:https://www.eventbrite.com/e/pop-listening-party-tickets-2002859277013
 END:VEVENT
 BEGIN:VEVENT
 UID:8d76b5577a6c6971@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261205T220000
 DTEND;TZID=America/Chicago:20261206T020000
 SUMMARY:ALL THE FEELS: "COME COZY" (R&B • Breakup Anthems • Twerk Vibes
@@ -1104,8 +978,21 @@ URL:https://www.eventbrite.com/e/all-the-feels-come-cozy-rb-breakup-anthems
  -twerk-vibes-tickets-2004612901150
 END:VEVENT
 BEGIN:VEVENT
+UID:d16409f8037e87da@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261205T220000
+DTEND;TZID=America/Chicago:20261206T030000
+SUMMARY:SATURDAYZ @ MASADA: Afrobeats\, Amapiano\, Dancehall\, R&B
+LOCATION:Masada\, 2206 North California Avenue\, Chicago
+DESCRIPTION:Voted #1 Afrobeats Dance Party in Chicago  Source: Eventbrite. 
+ Tickets/info: https://www.eventbrite.com/e/saturdayz-masada-afrobeats-amap
+ iano-dancehall-rb-tickets-2003750440507
+URL:https://www.eventbrite.com/e/saturdayz-masada-afrobeats-amapiano-danceh
+ all-rb-tickets-2003750440507
+END:VEVENT
+BEGIN:VEVENT
 UID:2df0d68218426f54@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261210T193000
 DTEND;TZID=America/Chicago:20261210T223000
 SUMMARY:Syd: Beard Tour
@@ -1117,7 +1004,7 @@ URL:https://app.discotech.me/events/38279913-syd-beard-tour-at-ramova-theat
 END:VEVENT
 BEGIN:VEVENT
 UID:25d7a686410420c6@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261210T210000
 DTEND;TZID=America/Chicago:20261211T010000
 SUMMARY:Almighty en Chicago
@@ -1130,7 +1017,7 @@ URL:https://ticketon.com/en/events/almighty-en-chicago-chicago-il-2026-12-1
 END:VEVENT
 BEGIN:VEVENT
 UID:5b239fcf9270c948@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261211T210000
 DTEND;TZID=America/Chicago:20261212T020000
 SUMMARY:Hip-Hop vs R&B Happy Hour Ladies Night + Adult Game Night!
@@ -1145,7 +1032,7 @@ URL:https://www.eventbrite.com/e/hip-hop-vs-rb-happy-hour-ladies-night-adul
 END:VEVENT
 BEGIN:VEVENT
 UID:921ae4c5ac78329d@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261212T184500
 DTEND;TZID=America/Chicago:20261212T230000
 SUMMARY:RNB Red Attire Indoor Yacht Party + Fireworks (3 Levels) Chicago
@@ -1161,7 +1048,7 @@ URL:https://www.eventbrite.com/e/rnb-red-attire-indoor-yacht-party-firework
 END:VEVENT
 BEGIN:VEVENT
 UID:06d0b269a48c2fa5@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261218T200000
 DTEND;TZID=America/Chicago:20261219T010000
 SUMMARY:ACHEPE
@@ -1172,7 +1059,7 @@ URL:https://www.eventbrite.com/e/achepe-tickets-2004855226953
 END:VEVENT
 BEGIN:VEVENT
 UID:fbdbc56254b754db@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261218T200000
 DTEND;TZID=America/Chicago:20261218T230000
 SUMMARY:Meek Mill: Dream Chasers Nights
@@ -1185,7 +1072,7 @@ URL:https://app.discotech.me/events/38305854-meek-mill-dream-chasers-nights
 END:VEVENT
 BEGIN:VEVENT
 UID:cfa5a6b7ff66bb44@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261219T200000
 DTEND;TZID=America/Chicago:20261219T230000
 SUMMARY:Pivot Gang x Saba: John Walt Day + 10 Years of Bucket List
@@ -1196,7 +1083,7 @@ URL:https://concerts50.com/show/saba-in-chicago-tickets-dec-19-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:0c5c833c78f39f3a@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261220T170000
 DTEND;TZID=America/Chicago:20261220T200000
 SUMMARY:Baby Smoove Live!
@@ -1207,7 +1094,7 @@ URL:https://www.livenation.com/event/vv178Z_3Gkluum-U/baby-smoove-live
 END:VEVENT
 BEGIN:VEVENT
 UID:89cdedd22f0c7e66@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261220T200000
 DTEND;TZID=America/Chicago:20261221T010000
 SUMMARY:JUKE PARTY CHICAGO: THE ENCORE — BACK BY POPULAR DEMAND
@@ -1221,7 +1108,7 @@ URL:https://www.eventbrite.com/e/juke-party-chicago-the-encore-back-by-popu
 END:VEVENT
 BEGIN:VEVENT
 UID:7cdea99f5c767f40@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261226T210000
 DTEND;TZID=America/Chicago:20261227T030000
 SUMMARY:Poetic JustUs
@@ -1234,7 +1121,7 @@ URL:https://www.eventbrite.com/e/poetic-justus-tickets-2004374519143
 END:VEVENT
 BEGIN:VEVENT
 UID:d958a67bbcd62128@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20261231T200000
 DTEND;TZID=America/Chicago:20270101T010000
 SUMMARY:R&B ONLY Live: New Year's Eve
@@ -1244,8 +1131,21 @@ DESCRIPTION:DJ-led R&B sing-along party. 21+.  Source: R&B Only. Tickets/in
 URL:https://chicago.rnbonly.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:1769dd3a95defd41@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20261231T220000
+DTEND;TZID=America/Chicago:20270101T040000
+SUMMARY:AFRO FUSION 2027 NYE PARTY
+LOCATION:Le Nocturne Chicago\, 4810 North Broadway\, Chicago
+DESCRIPTION:NYE 2027  PARTY --Hip-hop\, R&B\, Reggae\, Soca\, Afrobeats\, A
+ mapiano and many more  Source: Eventbrite. Tickets/info: https://www.event
+ brite.com/e/afro-fusion-2027-nye-party-tickets-2003175537958
+URL:https://www.eventbrite.com/e/afro-fusion-2027-nye-party-tickets-2003175
+ 537958
+END:VEVENT
+BEGIN:VEVENT
 UID:d916b5611868fa13@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270103T200000
 DTEND;TZID=America/Chicago:20270103T233000
 SUMMARY:BANKROLL TFOES ALBUM RELEASE/ 28TH BDAY BASH
@@ -1259,7 +1159,7 @@ URL:https://www.eventbrite.com/e/bankroll-tfoes-album-release-28th-bday-bas
 END:VEVENT
 BEGIN:VEVENT
 UID:a4b4a23525710468@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270107T193000
 DTEND;TZID=America/Chicago:20270107T220000
 SUMMARY:Elle Varner Live
@@ -1270,7 +1170,7 @@ URL:https://tickets.citywinery.com/event/elle-varner-sq8zrb
 END:VEVENT
 BEGIN:VEVENT
 UID:7f8d47a8d6bc9d06@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270108T180000
 DTEND;TZID=America/Chicago:20270108T210000
 SUMMARY:Double G Blessed & Prosperous Openmic feature
@@ -1284,7 +1184,7 @@ URL:https://www.eventbrite.com/e/double-g-blessed-prosperous-openmic-featur
 END:VEVENT
 BEGIN:VEVENT
 UID:9e0ad35afdbabf3b@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270115T200000
 DTEND;TZID=America/Chicago:20270115T230000
 SUMMARY:The Roots
@@ -1295,7 +1195,7 @@ URL:https://www.livenation.com/event/vv1kvZvPodGA5phKX/the-roots
 END:VEVENT
 BEGIN:VEVENT
 UID:b78967d7b849494c@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270130T160000
 DTEND;TZID=America/Chicago:20270130T200000
 SUMMARY:Mental Health Meets Hip-Hop at the Harold Washington Cultural Cente
@@ -1311,8 +1211,22 @@ URL:https://www.eventbrite.com/e/mental-health-meets-hip-hop-at-the-harold-
  washington-cultural-center-tickets-2004435730227
 END:VEVENT
 BEGIN:VEVENT
+UID:b11f05b5dc3e8284@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20270220T150000
+DTEND;TZID=America/Chicago:20270220T190000
+SUMMARY:VERSUS VOL. 5: JAM MASTERS w/ DJ FLEG
+LOCATION:Emporium Wicker Park\, 1366 North Milwaukee Avenue\, Chicago
+DESCRIPTION:Stylin’ Out Network presents the fifth annual edition of VERS
+ US\, returning with JAM MASTERS\, a celebration of Hip-Hop dance culture t
+ hrough  Source: Eventbrite. Tickets/info: https://www.eventbrite.com/e/ver
+ sus-vol-5-jam-masters-w-dj-fleg-tickets-2004870181683
+URL:https://www.eventbrite.com/e/versus-vol-5-jam-masters-w-dj-fleg-tickets
+ -2004870181683
+END:VEVENT
+BEGIN:VEVENT
 UID:b7697a8a4cc8411c@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270227T200000
 DTEND;TZID=America/Chicago:20270227T230000
 SUMMARY:8Ball & MJG and Bun B with the Renaissance Orchestra
@@ -1322,8 +1236,21 @@ DESCRIPTION:Southern hip hop legends with orchestra.  Source: Arie Crown Th
 URL:https://www.ariecrown.com/events/detail/8ball
 END:VEVENT
 BEGIN:VEVENT
+UID:6211933ce683b56d@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20270321T193000
+DTEND;TZID=America/Chicago:20270321T230000
+SUMMARY:Jhené Aiko Presents Ark to Agartha with Swae Lee and Karri
+LOCATION:United Center\, 1901 W Madison St\, Chicago
+DESCRIPTION:R&B concert.  Source: WGCI / Live Nation. Tickets/info: https:/
+ /wgci.iheart.com/calendar/content/2027-03-21-jhene-aiko-presents-ark-to-ag
+ artha-a-westside-whimsy-experience/
+URL:https://wgci.iheart.com/calendar/content/2027-03-21-jhene-aiko-presents
+ -ark-to-agartha-a-westside-whimsy-experience/
+END:VEVENT
+BEGIN:VEVENT
 UID:607f2f31310cc150@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270327T190000
 DTEND;TZID=America/Chicago:20270327T223000
 SUMMARY:Lucky Daye: The ALOUD! Tour
@@ -1334,8 +1261,20 @@ URL:https://app.discotech.me/events/38301051-lucky-daye-the-aloud-tour-at-t
  he-salt-shed
 END:VEVENT
 BEGIN:VEVENT
+UID:efd891bda31de527@chicago-hiphop-events
+DTSTAMP:20261123T150543Z
+DTSTART;TZID=America/Chicago:20270508T180000
+DTEND;TZID=America/Chicago:20270508T220000
+SUMMARY:Snotty Nose Rez Kids with Chloe Star and Blxckpunks
+LOCATION:Cobra Lounge\, 235 N Ashland Ave\, Chicago
+DESCRIPTION:Hip hop concert.  Source: Songkick. Tickets/info: https://www.s
+ ongkick.com/concerts/43516486-snotty-nose-rez-kids-at-cobra-lounge
+URL:https://www.songkick.com/concerts/43516486-snotty-nose-rez-kids-at-cobr
+ a-lounge
+END:VEVENT
+BEGIN:VEVENT
 UID:8f54a27038c8aa41@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270514T200000
 DTEND;TZID=America/Chicago:20270514T230000
 SUMMARY:Fantasia: The Love of Soul Tour with Anthony Hamilton & October Lon
@@ -1349,7 +1288,7 @@ URL:https://www.unitedcenter.com/events/2027/05/14/fantasia-the-love-of-sou
 END:VEVENT
 BEGIN:VEVENT
 UID:deb335975b115696@chicago-hiphop-events
-DTSTAMP:20261116T150443Z
+DTSTAMP:20261123T150543Z
 DTSTART;TZID=America/Chicago:20270913T200000
 DTEND;TZID=America/Chicago:20270913T230000
 SUMMARY:Sampa The Great
